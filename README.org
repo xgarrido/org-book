@@ -1,0 +1,5 @@
+#+TITLE:  Org Book
+#+AUTHOR: Xavier Garrido
+
+This repository holds a list of books read so far. See
+[[http://xgarrido.github.io/org-book]] for a timeline.
