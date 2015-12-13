@@ -27,6 +27,7 @@
 | Michel Onfray    | Traité d'athéologie         | mobi   | 14/11/2014 | 04/01/2015 |
 | Yannick Roudault | La nouvelle controverse     | papier | 19/12/2014 | 22/02/2015 |
 | Thomas Piketty   | Le capital au XXI^{ème} siècle | mobi   | 22/04/2015 |            |
+| Marc Trévidic    | Terroristes                 | mobi   | 11/12/2015 |            |
 |------------------+-----------------------------+--------+------------+------------|
 
 * Science
