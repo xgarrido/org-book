@@ -17,6 +17,7 @@
 | Fred Vargas   | Temps glaciaire           | mobi   | 07/10/2015 | 18/10/2015 |
 | Stieg Larsson | Millenium 1               | mobi   | 19/10/2015 | 06/11/2015 |
 | Stieg Larsson | Millenium 2               | mobi   | 06/11/2015 | 06/12/2015 |
+| Stieg Larsson | Millenium 3               | mobi   | 06/12/2015 |            |
 |---------------+---------------------------+--------+------------+------------|
 
 * Société
@@ -28,6 +29,7 @@
 | Yannick Roudault | La nouvelle controverse     | papier | 19/12/2014 | 22/02/2015 |
 | Thomas Piketty   | Le capital au XXI^{ème} siècle | mobi   | 22/04/2015 |            |
 | Marc Trévidic    | Terroristes                 | mobi   | 11/12/2015 | 16/12/2015 |
+| Gilles Kepel     | Terreur dans l'Hexagone     | mobi   | 20/12/2015 |            |
 |------------------+-----------------------------+--------+------------+------------|
 
 * Science
@@ -57,4 +59,5 @@
 | Michel Houellbecq | Plateforme                | mobi   | 06/03/2015 | 06/04/2015 |
 | Michel Houellbecq | La carte et le territoire | mobi   | 07/04/2015 | 23/04/2015 |
 | Jérôme Ferrari    | Le principe               | papier | 22/03/2015 | 29/03/2015 |
+| Ernest Hemingway  | Paris est une fête        | mobi   | 18/12/2015 | 26/12/2015 |
 |-------------------+---------------------------+--------+------------+------------|
