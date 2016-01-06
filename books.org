@@ -17,7 +17,7 @@
 | Fred Vargas   | Temps glaciaire           | mobi   | 07/10/2015 | 18/10/2015 |
 | Stieg Larsson | Millenium 1               | mobi   | 19/10/2015 | 06/11/2015 |
 | Stieg Larsson | Millenium 2               | mobi   | 06/11/2015 | 06/12/2015 |
-| Stieg Larsson | Millenium 3               | mobi   | 06/12/2015 |            |
+| Stieg Larsson | Millenium 3               | mobi   | 06/12/2015 | 05/01/2016 |
 |---------------+---------------------------+--------+------------+------------|
 
 * Société
