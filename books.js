@@ -76,6 +76,8 @@ var books = {
                         color = '#67ad00';
                     } else if (/Roman/.test(l)){
                         color = '#f1c40f';
+                    } else if (/Histoire/.test(l)){
+                        color = '#e67e22';
                     }
                     console.log(l);
                     return;

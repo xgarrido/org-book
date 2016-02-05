@@ -29,8 +29,15 @@
 | Yannick Roudault | La nouvelle controverse     | papier | 19/12/2014 | 22/02/2015 |
 | Thomas Piketty   | Le capital au XXI^{ème} siècle | mobi   | 22/04/2015 |            |
 | Marc Trévidic    | Terroristes                 | mobi   | 11/12/2015 | 16/12/2015 |
-| Gilles Kepel     | Terreur dans l'Hexagone     | mobi   | 20/12/2015 |            |
+| Gilles Kepel     | Terreur dans l'Hexagone     | mobi   | 20/12/2015 | 12/01/2016 |
 |------------------+-----------------------------+--------+------------+------------|
+
+* Histoire
+|-------------+---------------------+--------+------------+------|
+| Auteur      | Titre               | Format | Start      | Stop |
+|-------------+---------------------+--------+------------+------|
+| Hugh Thomas | La guerre d'Espagne | papier | 12/01/2016 |      |
+|-------------+---------------------+--------+------------+------|
 
 * Science
 
