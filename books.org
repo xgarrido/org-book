@@ -67,4 +67,5 @@
 | Michel Houellbecq | La carte et le territoire | mobi   | 07/04/2015 | 23/04/2015 |
 | Jérôme Ferrari    | Le principe               | papier | 22/03/2015 | 29/03/2015 |
 | Ernest Hemingway  | Paris est une fête        | mobi   | 18/12/2015 | 26/12/2015 |
+| Boualem Sansal    | 2084                      | mobi   | 09/02/2016 | 07/03/2016 |
 |-------------------+---------------------------+--------+------------+------------|
