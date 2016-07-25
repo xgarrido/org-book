@@ -6,19 +6,20 @@
 
 * Policier
 
-|---------------+---------------------------+--------+------------+------------|
-| Auteur        | Titre                     | Format | Start      | Stop       |
-|---------------+---------------------------+--------+------------+------------|
-| Fred Vargas   | L'homme aux cercles bleus | mobi   | 30/07/2014 | 07/08/2014 |
-| Fred Vargas   | L'homme à l'envers        | mobi   | 08/08/2014 | 20/08/2014 |
-| Fred Vargas   | Pars vite et reviens tard | mobi   | 28/08/2014 | 11/09/2014 |
-| Fred Vargas   | Dans les bois éternels    | mobi   | 07/07/2015 | 28/07/2015 |
-| Fred Vargas   | L'armée furieuse          | mobi   | 14/09/2015 | 07/10/2015 |
-| Fred Vargas   | Temps glaciaire           | mobi   | 07/10/2015 | 18/10/2015 |
-| Stieg Larsson | Millenium 1               | mobi   | 19/10/2015 | 06/11/2015 |
-| Stieg Larsson | Millenium 2               | mobi   | 06/11/2015 | 06/12/2015 |
-| Stieg Larsson | Millenium 3               | mobi   | 06/12/2015 | 05/01/2016 |
-|---------------+---------------------------+--------+------------+------------|
+|-------------------+---------------------------+--------+------------+------------|
+| Auteur            | Titre                     | Format | Start      | Stop       |
+|-------------------+---------------------------+--------+------------+------------|
+| Fred Vargas       | L'homme aux cercles bleus | mobi   | 30/07/2014 | 07/08/2014 |
+| Fred Vargas       | L'homme à l'envers        | mobi   | 08/08/2014 | 20/08/2014 |
+| Fred Vargas       | Pars vite et reviens tard | mobi   | 28/08/2014 | 11/09/2014 |
+| Fred Vargas       | Dans les bois éternels    | mobi   | 07/07/2015 | 28/07/2015 |
+| Fred Vargas       | L'armée furieuse          | mobi   | 14/09/2015 | 07/10/2015 |
+| Fred Vargas       | Temps glaciaire           | mobi   | 07/10/2015 | 18/10/2015 |
+| Stieg Larsson     | Millenium 1               | mobi   | 19/10/2015 | 06/11/2015 |
+| Stieg Larsson     | Millenium 2               | mobi   | 06/11/2015 | 06/12/2015 |
+| Stieg Larsson     | Millenium 3               | mobi   | 06/12/2015 | 05/01/2016 |
+| David Lagercrantz | Millenium 4               | mobi   | 08/03/2016 | 06/04/2016 |
+|-------------------+---------------------------+--------+------------+------------|
 
 * Société
 
@@ -33,6 +34,7 @@
 |------------------+-----------------------------+--------+------------+------------|
 
 * Histoire
+
 |-------------+---------------------+--------+------------+------|
 | Auteur      | Titre               | Format | Start      | Stop |
 |-------------+---------------------+--------+------------+------|
@@ -68,4 +70,5 @@
 | Jérôme Ferrari    | Le principe               | papier | 22/03/2015 | 29/03/2015 |
 | Ernest Hemingway  | Paris est une fête        | mobi   | 18/12/2015 | 26/12/2015 |
 | Boualem Sansal    | 2084                      | mobi   | 09/02/2016 | 07/03/2016 |
+| Laurent Seksik    | Le cas Eduard Einstein    | papier | 15/07/2016 | 25/07/2016 |
 |-------------------+---------------------------+--------+------------+------------|
