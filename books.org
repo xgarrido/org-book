@@ -67,6 +67,7 @@
 | Lydie Salvayre    | Pas pleurer               | mobi   | 09/01/2015 | 24/01/2015 |
 | Michel Houellbecq | Plateforme                | mobi   | 06/03/2015 | 06/04/2015 |
 | Michel Houellbecq | La carte et le territoire | mobi   | 07/04/2015 | 23/04/2015 |
+| Michel Houellbecq | Soumission                | mobi   | 03/09/2016 |            |
 | Jérôme Ferrari    | Le principe               | papier | 22/03/2015 | 29/03/2015 |
 | Ernest Hemingway  | Paris est une fête        | mobi   | 18/12/2015 | 26/12/2015 |
 | Boualem Sansal    | 2084                      | mobi   | 09/02/2016 | 07/03/2016 |
