@@ -55,7 +55,7 @@
 | Michel Davier                         | LHC: le boson de Higgs           | papier | 01/07/2015 | 05/08/2015 |
 | Etienne Klein                         | Le monde selon Etienne Klein     | papier | 10/08/2015 | 22/08/2015 |
 | Etienne Klein                         | Discours sur l'origine du monde  | papier | 22/08/2015 | 29/08/2015 |
-| Etienne Klein                         | Conversations avec le sphinx     | mobi   | 18/09/2016 |            |
+| Etienne Klein                         | Conversations avec le sphinx     | mobi   | 18/09/2016 | 04/10/2016 |
 | Gilles Cohen-Tannoudji & Michel Spiro | Le boson et le chapeau mexicain  | papier | 29/08/2015 |            |
 |---------------------------------------+----------------------------------+--------+------------+------------|
 
@@ -73,4 +73,5 @@
 | Ernest Hemingway  | Paris est une fête        | mobi   | 18/12/2015 | 26/12/2015 |
 | Boualem Sansal    | 2084                      | mobi   | 09/02/2016 | 07/03/2016 |
 | Laurent Seksik    | Le cas Eduard Einstein    | papier | 15/07/2016 | 25/07/2016 |
+| Elie Wiesel       | La nuit                   | mobi   | 04/10/2016 | 10/10/2016 |
 |-------------------+---------------------------+--------+------------+------------|
