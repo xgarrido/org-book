@@ -74,4 +74,5 @@
 | Boualem Sansal    | 2084                      | mobi   | 09/02/2016 | 07/03/2016 |
 | Laurent Seksik    | Le cas Eduard Einstein    | papier | 15/07/2016 | 25/07/2016 |
 | Elie Wiesel       | La nuit                   | mobi   | 04/10/2016 | 10/10/2016 |
+| David Foenkinos   | Charlotte                 | mobi   | 10/10/2016 |            |
 |-------------------+---------------------------+--------+------------+------------|
