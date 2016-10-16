@@ -61,18 +61,19 @@
 
 * Roman
 
-|-------------------+---------------------------+--------+------------+------------|
-| Auteur            | Titre                     | Format | Start      | Stop       |
-|-------------------+---------------------------+--------+------------+------------|
-| Emmanuel Carrere  | Le royaume                | mobi   | 11/09/2014 | 21/02/2015 |
-| Lydie Salvayre    | Pas pleurer               | mobi   | 09/01/2015 | 24/01/2015 |
-| Michel Houellbecq | Plateforme                | mobi   | 06/03/2015 | 06/04/2015 |
-| Michel Houellbecq | La carte et le territoire | mobi   | 07/04/2015 | 23/04/2015 |
-| Michel Houellbecq | Soumission                | mobi   | 03/09/2016 | 16/09/2016 |
-| Jérôme Ferrari    | Le principe               | papier | 22/03/2015 | 29/03/2015 |
-| Ernest Hemingway  | Paris est une fête        | mobi   | 18/12/2015 | 26/12/2015 |
-| Boualem Sansal    | 2084                      | mobi   | 09/02/2016 | 07/03/2016 |
-| Laurent Seksik    | Le cas Eduard Einstein    | papier | 15/07/2016 | 25/07/2016 |
-| Elie Wiesel       | La nuit                   | mobi   | 04/10/2016 | 10/10/2016 |
-| David Foenkinos   | Charlotte                 | mobi   | 10/10/2016 | 16/10/2016 |
-|-------------------+---------------------------+--------+------------+------------|
+|-------------------+------------------------------------+--------+------------+------------|
+| Auteur            | Titre                              | Format | Start      | Stop       |
+|-------------------+------------------------------------+--------+------------+------------|
+| Emmanuel Carrere  | Le royaume                         | mobi   | 11/09/2014 | 21/02/2015 |
+| Lydie Salvayre    | Pas pleurer                        | mobi   | 09/01/2015 | 24/01/2015 |
+| Michel Houellbecq | Plateforme                         | mobi   | 06/03/2015 | 06/04/2015 |
+| Michel Houellbecq | La carte et le territoire          | mobi   | 07/04/2015 | 23/04/2015 |
+| Michel Houellbecq | Soumission                         | mobi   | 03/09/2016 | 16/09/2016 |
+| Jérôme Ferrari    | Le principe                        | papier | 22/03/2015 | 29/03/2015 |
+| Ernest Hemingway  | Paris est une fête                 | mobi   | 18/12/2015 | 26/12/2015 |
+| Boualem Sansal    | 2084                               | mobi   | 09/02/2016 | 07/03/2016 |
+| Laurent Seksik    | Le cas Eduard Einstein             | papier | 15/07/2016 | 25/07/2016 |
+| Laurent Seksik    | Les derniers jours de Stefan Zweig | mobi   | 16/10/2016 |            |
+| Elie Wiesel       | La nuit                            | mobi   | 04/10/2016 | 10/10/2016 |
+| David Foenkinos   | Charlotte                          | mobi   | 10/10/2016 | 16/10/2016 |
+|-------------------+------------------------------------+--------+------------+------------|
