@@ -57,7 +57,7 @@
 | Etienne Klein                         | Le monde selon Etienne Klein     | papier | 10/08/2015 | 22/08/2015 |
 | Etienne Klein                         | Discours sur l'origine du monde  | papier | 22/08/2015 | 29/08/2015 |
 | Etienne Klein                         | Conversations avec le sphinx     | mobi   | 18/09/2016 | 04/10/2016 |
-| Gilles Cohen-Tannoudji & Michel Spiro | Le boson et le chapeau mexicain  | papier | 29/08/2015 |            |
+| Gilles Cohen-Tannoudji & Michel Spiro | Le boson et le chapeau mexicain  | papier | 29/08/2015 | 13/11/2016 |
 |---------------------------------------+----------------------------------+--------+------------+------------|
 
 * Roman
