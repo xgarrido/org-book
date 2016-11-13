@@ -3,6 +3,7 @@
 #+DESCRIPTION: Document contenant les noms des auteurs et
 #+DESCRIPTION: les titres de livres lus dans un passé ± récent
 #+STARTUP: entitiespretty
+#+OPTIONS: toc:nil title:nil date:nil
 
 * Policier
 
@@ -73,7 +74,8 @@
 | Ernest Hemingway  | Paris est une fête                 | mobi   | 18/12/2015 | 26/12/2015 |
 | Boualem Sansal    | 2084                               | mobi   | 09/02/2016 | 07/03/2016 |
 | Laurent Seksik    | Le cas Eduard Einstein             | papier | 15/07/2016 | 25/07/2016 |
-| Laurent Seksik    | Les derniers jours de Stefan Zweig | mobi   | 16/10/2016 |            |
+| Laurent Seksik    | Les derniers jours de Stefan Zweig | mobi   | 16/10/2016 | 08/11/2016 |
 | Elie Wiesel       | La nuit                            | mobi   | 04/10/2016 | 10/10/2016 |
 | David Foenkinos   | Charlotte                          | mobi   | 10/10/2016 | 16/10/2016 |
+| Jacques Mesrine   | L'instinct de mort                 | mobi   | 08/11/2016 |            |
 |-------------------+------------------------------------+--------+------------+------------|
