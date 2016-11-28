@@ -44,21 +44,22 @@
 
 * Science
 
-|---------------------------------------+----------------------------------+--------+------------+------------|
-| Auteur                                | Titre                            | Format | Start      | Stop       |
-|---------------------------------------+----------------------------------+--------+------------+------------|
-| Etienne Klein                         | Il était sept fois la révolution | mobi   | 06/08/2014 | 13/08/2014 |
-| Brian Greene                          | La réalité cachée                | mobi   | 20/08/2014 | 17/03/2015 |
-| Vikram Chandra                        | Geek sublime                     | papier | 22/02/2015 |            |
-| John Barrow                           | Le livres des univers            | mobi   | 16/03/2015 | 17/06/2015 |
-| Lawrence M. Krauss                    | La physique de Star Trek         | mobi   | 18/06/2015 | 08/09/2015 |
-| Stephen W. Hawking                    | Une brève histoire du temps      | mobi   | 18/06/2015 | 07/07/2015 |
-| Michel Davier                         | LHC: le boson de Higgs           | papier | 01/07/2015 | 05/08/2015 |
-| Etienne Klein                         | Le monde selon Etienne Klein     | papier | 10/08/2015 | 22/08/2015 |
-| Etienne Klein                         | Discours sur l'origine du monde  | papier | 22/08/2015 | 29/08/2015 |
-| Etienne Klein                         | Conversations avec le sphinx     | mobi   | 18/09/2016 | 04/10/2016 |
-| Gilles Cohen-Tannoudji & Michel Spiro | Le boson et le chapeau mexicain  | papier | 29/08/2015 | 13/11/2016 |
-|---------------------------------------+----------------------------------+--------+------------+------------|
+|---------------------------------------+--------------------------------------------+--------+------------+------------|
+| Auteur                                | Titre                                      | Format | Start      | Stop       |
+|---------------------------------------+--------------------------------------------+--------+------------+------------|
+| Etienne Klein                         | Il était sept fois la révolution           | mobi   | 06/08/2014 | 13/08/2014 |
+| Brian Greene                          | La réalité cachée                          | mobi   | 20/08/2014 | 17/03/2015 |
+| Vikram Chandra                        | Geek sublime                               | papier | 22/02/2015 |            |
+| John Barrow                           | Le livres des univers                      | mobi   | 16/03/2015 | 17/06/2015 |
+| Lawrence M. Krauss                    | La physique de Star Trek                   | mobi   | 18/06/2015 | 08/09/2015 |
+| Stephen W. Hawking                    | Une brève histoire du temps                | mobi   | 18/06/2015 | 07/07/2015 |
+| Michel Davier                         | LHC: le boson de Higgs                     | papier | 01/07/2015 | 05/08/2015 |
+| Etienne Klein                         | Le monde selon Etienne Klein               | papier | 10/08/2015 | 22/08/2015 |
+| Etienne Klein                         | Discours sur l'origine du monde            | papier | 22/08/2015 | 29/08/2015 |
+| Etienne Klein                         | Conversations avec le sphinx               | mobi   | 18/09/2016 | 04/10/2016 |
+| Gilles Cohen-Tannoudji & Michel Spiro | Le boson et le chapeau mexicain            | papier | 29/08/2015 | 13/11/2016 |
+| Yuval Noah Harari                     | Sapiens : Une brève histoire de l'humanité | mobi   | 25/11/2016 |            |
+|---------------------------------------+--------------------------------------------+--------+------------+------------|
 
 * Roman
 
@@ -77,5 +78,5 @@
 | Laurent Seksik    | Les derniers jours de Stefan Zweig | mobi   | 16/10/2016 | 08/11/2016 |
 | Elie Wiesel       | La nuit                            | mobi   | 04/10/2016 | 10/10/2016 |
 | David Foenkinos   | Charlotte                          | mobi   | 10/10/2016 | 16/10/2016 |
-| Jacques Mesrine   | L'instinct de mort                 | mobi   | 08/11/2016 |            |
+| Jacques Mesrine   | L'instinct de mort                 | mobi   | 08/11/2016 | 25/11/2016 |
 |-------------------+------------------------------------+--------+------------+------------|
