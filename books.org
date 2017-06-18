@@ -80,4 +80,5 @@
 | David Foenkinos   | Charlotte                          | mobi   | 10/10/2016 | 16/10/2016 |
 | Jacques Mesrine   | L'instinct de mort                 | mobi   | 08/11/2016 | 25/11/2016 |
 | Mathias Enard     | Boussole                           | mobi   | 25/11/2016 | 24/05/2017 |
+| Georges Orwell    | Hommage à la Catalogne             | papier | 18/06/2017 |            |
 |-------------------+------------------------------------+--------+------------+------------|
