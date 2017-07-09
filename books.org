@@ -81,4 +81,5 @@
 | Jacques Mesrine   | L'instinct de mort                 | mobi   | 08/11/2016 | 25/11/2016 |
 | Mathias Enard     | Boussole                           | mobi   | 25/11/2016 | 24/05/2017 |
 | Georges Orwell    | Hommage à la Catalogne             | papier | 18/06/2017 |            |
+| Roberto Saviano   | Gomorra                            | mobi   | 21/06/2017 | 09/07/2017 |
 |-------------------+------------------------------------+--------+------------+------------|
