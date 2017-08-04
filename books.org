@@ -83,5 +83,6 @@
 | Georges Orwell    | Hommage à la Catalogne             | papier | 18/06/2017 |            |
 | Roberto Saviano   | Gomorra                            | mobi   | 21/06/2017 | 09/07/2017 |
 | Albert Camus      | L'étranger                         | mobi   | 10/07/2017 | 15/07/2017 |
-| Kamel Daoud       | Mersault, contre enquête           | mobi   | 15/07/2017 |            |
+| Kamel Daoud       | Mersault, contre enquête           | mobi   | 15/07/2017 | 29/07/2017 |
+| Harper Lee        | Ne tirez pas sur l'oiseau moqueur  | mobi   | 29/07/2017 |            |
 |-------------------+------------------------------------+--------+------------+------------|
