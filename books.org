@@ -43,7 +43,7 @@
 | Hugh Thomas  | La guerre d'Espagne | papier | 12/01/2016 |            |
 | Stefan Zweig | Magellan            | mobi   | 04/09/2017 | 13/09/2017 |
 | Stefan Zweig | Joseph Fouché       | mobi   | 13/09/2017 | 26/09/2017 |
-| Stefan Zweig | Marie-Antoinette    | mobi   | 26/09/2017 |            |
+| Stefan Zweig | Marie-Antoinette    | mobi   | 26/09/2017 | 27/10/2017 |
 |--------------+---------------------+--------+------------+------------|
 
 * Science
@@ -89,4 +89,5 @@
 | Albert Camus      | L'étranger                         | mobi   | 10/07/2017 | 15/07/2017 |
 | Kamel Daoud       | Mersault, contre enquête           | mobi   | 15/07/2017 | 29/07/2017 |
 | Harper Lee        | Ne tirez pas sur l'oiseau moqueur  | mobi   | 29/07/2017 | 11/08/2017 |
+| Stefan Zweig      | Le joueur d'échec                  | mobi   | 27/10/2017 |            |
 |-------------------+------------------------------------+--------+------------+------------|
