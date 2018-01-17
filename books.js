@@ -63,7 +63,8 @@ var books = {
     	var data = [];
         var color = '#bbbbbb';
     	var list = response.match(/\s+[^\n\r]+/ig);
-    	list.forEach(function(l){
+        var topushed = true;
+        list.forEach(function(l){
     	    var matches = l.match(/\s([^|]+)/g);
             if (matches != null){
                 if (matches[0] == null || matches[1] == null ||
@@ -78,8 +79,10 @@ var books = {
                         color = '#f1c40f';
                     } else if (/Histoire/.test(l)){
                         color = '#e67e22';
+                    } else if (/Non/.test(l)) {
+                        topushed = false;
                     }
-                    console.log(l);
+                    // console.log(l);
                     return;
                 }
                 if (/Titre/.test(matches[1])) return;
@@ -89,12 +92,14 @@ var books = {
                 var stop = matches[4].replace(/^\s+|\s+$/g, "");
                 if (stop == "") stop = "present"
                 var time = start + '-' + stop
-                data.push({
-    	            time: books.parseTime(time),
-    	            author: author,
-                    title: title,
-                    color: color
-    	        });
+                if (topushed) {
+                    data.push({
+    	                time: books.parseTime(time),
+    	                author: author,
+                        title: title,
+                        color: color
+    	            });
+                }
             }
     	});
     	return data;
