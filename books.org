@@ -88,6 +88,7 @@
 | Kamel Daoud       | Mersault, contre enquête           | mobi   | 15/07/2017 | 29/07/2017 |
 | Harper Lee        | Ne tirez pas sur l'oiseau moqueur  | mobi   | 29/07/2017 | 11/08/2017 |
 | Stefan Zweig      | Le joueur d'échec                  | mobi   | 27/10/2017 | 28/10/2017 |
+| Olivier Guez      | La disparition de Josef Mengele    | papier | 02/02/2018 | 11/02/2018 |
 |-------------------+------------------------------------+--------+------------+------------|
 
 * Non terminés
