@@ -84,7 +84,7 @@
 | David Foenkinos   | Charlotte                          | mobi   | 10/10/2016 | 16/10/2016 |
 | Jacques Mesrine   | L'instinct de mort                 | mobi   | 08/11/2016 | 25/11/2016 |
 | Mathias Enard     | Boussole                           | mobi   | 25/11/2016 | 24/05/2017 |
-| Georges Orwell    | Hommage à la Catalogne             | papier | 18/06/2017 |            |
+| Georges Orwell    | Hommage à la Catalogne             | papier | 18/06/2017 | 18/03/2018 |
 | Georges Orwell    | 1984                               | mobi   | 28/10/2017 | 16/01/2018 |
 | Roberto Saviano   | Gomorra                            | mobi   | 21/06/2017 | 09/07/2017 |
 | Albert Camus      | L'étranger                         | mobi   | 10/07/2017 | 15/07/2017 |
