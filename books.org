@@ -63,7 +63,7 @@
 | Etienne Klein                         | Conversations avec le sphinx               | mobi   | 18/09/2016 | 04/10/2016 |
 | Gilles Cohen-Tannoudji & Michel Spiro | Le boson et le chapeau mexicain            | papier | 29/08/2015 | 13/11/2016 |
 | Yuval Noah Harari                     | Sapiens : Une brève histoire de l'humanité | mobi   | 25/11/2016 | 14/06/2017 |
-| Antoine Letessier Selvon              | Kosmos, l'épopée des particules            | papier | 05/01/2019 |            |
+| Antoine Letessier Selvon              | Kosmos, l'épopée des particules            | papier | 05/01/2019 | 11/01/2019 |
 |---------------------------------------+--------------------------------------------+--------+------------+------------|
 
 * Roman
