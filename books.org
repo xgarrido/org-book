@@ -69,37 +69,38 @@
 
 * Roman
 
-|-------------------+------------------------------------+--------+------------+------------|
-| Auteur            | Titre                              | Format | Start      | Stop       |
-|-------------------+------------------------------------+--------+------------+------------|
-| Emmanuel Carrere  | Le royaume                         | mobi   | 11/09/2014 | 21/02/2015 |
-| Lydie Salvayre    | Pas pleurer                        | mobi   | 09/01/2015 | 24/01/2015 |
-| Michel Houellbecq | Plateforme                         | mobi   | 06/03/2015 | 06/04/2015 |
-| Michel Houellbecq | La carte et le territoire          | mobi   | 07/04/2015 | 23/04/2015 |
-| Michel Houellbecq | Soumission                         | mobi   | 03/09/2016 | 16/09/2016 |
-| Jérôme Ferrari    | Le principe                        | papier | 22/03/2015 | 29/03/2015 |
-| Ernest Hemingway  | Paris est une fête                 | mobi   | 18/12/2015 | 26/12/2015 |
-| Boualem Sansal    | 2084                               | mobi   | 09/02/2016 | 07/03/2016 |
-| Laurent Seksik    | Le cas Eduard Einstein             | papier | 15/07/2016 | 25/07/2016 |
-| Laurent Seksik    | Les derniers jours de Stefan Zweig | mobi   | 16/10/2016 | 08/11/2016 |
-| Elie Wiesel       | La nuit                            | mobi   | 04/10/2016 | 10/10/2016 |
-| David Foenkinos   | Charlotte                          | mobi   | 10/10/2016 | 16/10/2016 |
-| Jacques Mesrine   | L'instinct de mort                 | mobi   | 08/11/2016 | 25/11/2016 |
-| Mathias Enard     | Boussole                           | mobi   | 25/11/2016 | 24/05/2017 |
-| Georges Orwell    | Hommage à la Catalogne             | papier | 18/06/2017 | 18/03/2018 |
-| Georges Orwell    | 1984                               | mobi   | 28/10/2017 | 16/01/2018 |
-| Roberto Saviano   | Gomorra                            | mobi   | 21/06/2017 | 09/07/2017 |
-| Roberto Saviano   | Piranhas                           | mobi   | 12/10/2018 | 22/10/2018 |
-| Albert Camus      | L'étranger                         | mobi   | 10/07/2017 | 15/07/2017 |
-| Kamel Daoud       | Mersault, contre enquête           | mobi   | 15/07/2017 | 29/07/2017 |
-| Harper Lee        | Ne tirez pas sur l'oiseau moqueur  | mobi   | 29/07/2017 | 11/08/2017 |
-| Stefan Zweig      | Le joueur d'échec                  | mobi   | 27/10/2017 | 28/10/2017 |
-| Olivier Guez      | La disparition de Josef Mengele    | papier | 02/02/2018 | 11/02/2018 |
-| Eric Vuillard     | L'ordre du jour                    | mobi   | 24/03/2018 | 28/03/2018 |
-| Jonathan Littell  | Les bienvaillantes                 | mobi   | 28/03/2018 | 02/08/2018 |
-| Marc Dugain       | La chambre des officiers           | papier | 03/08/2018 | 07/08/2018 |
-| Umberto Eco       | Le nom de la rose                  | mobi   | 07/08/2018 | 12/10/2018 |
-|-------------------+------------------------------------+--------+------------+------------|
+|----------------------+------------------------------------+--------+------------+------------|
+| Auteur               | Titre                              | Format | Start      | Stop       |
+|----------------------+------------------------------------+--------+------------+------------|
+| Emmanuel Carrere     | Le royaume                         | mobi   | 11/09/2014 | 21/02/2015 |
+| Lydie Salvayre       | Pas pleurer                        | mobi   | 09/01/2015 | 24/01/2015 |
+| Michel Houellbecq    | Plateforme                         | mobi   | 06/03/2015 | 06/04/2015 |
+| Michel Houellbecq    | La carte et le territoire          | mobi   | 07/04/2015 | 23/04/2015 |
+| Michel Houellbecq    | Soumission                         | mobi   | 03/09/2016 | 16/09/2016 |
+| Jérôme Ferrari       | Le principe                        | papier | 22/03/2015 | 29/03/2015 |
+| Ernest Hemingway     | Paris est une fête                 | mobi   | 18/12/2015 | 26/12/2015 |
+| Boualem Sansal       | 2084                               | mobi   | 09/02/2016 | 07/03/2016 |
+| Laurent Seksik       | Le cas Eduard Einstein             | papier | 15/07/2016 | 25/07/2016 |
+| Laurent Seksik       | Les derniers jours de Stefan Zweig | mobi   | 16/10/2016 | 08/11/2016 |
+| Elie Wiesel          | La nuit                            | mobi   | 04/10/2016 | 10/10/2016 |
+| David Foenkinos      | Charlotte                          | mobi   | 10/10/2016 | 16/10/2016 |
+| Jacques Mesrine      | L'instinct de mort                 | mobi   | 08/11/2016 | 25/11/2016 |
+| Mathias Enard        | Boussole                           | mobi   | 25/11/2016 | 24/05/2017 |
+| Georges Orwell       | Hommage à la Catalogne             | papier | 18/06/2017 | 18/03/2018 |
+| Georges Orwell       | 1984                               | mobi   | 28/10/2017 | 16/01/2018 |
+| Roberto Saviano      | Gomorra                            | mobi   | 21/06/2017 | 09/07/2017 |
+| Roberto Saviano      | Piranhas                           | mobi   | 12/10/2018 | 22/10/2018 |
+| Albert Camus         | L'étranger                         | mobi   | 10/07/2017 | 15/07/2017 |
+| Kamel Daoud          | Mersault, contre enquête           | mobi   | 15/07/2017 | 29/07/2017 |
+| Harper Lee           | Ne tirez pas sur l'oiseau moqueur  | mobi   | 29/07/2017 | 11/08/2017 |
+| Stefan Zweig         | Le joueur d'échec                  | mobi   | 27/10/2017 | 28/10/2017 |
+| Olivier Guez         | La disparition de Josef Mengele    | papier | 02/02/2018 | 11/02/2018 |
+| Eric Vuillard        | L'ordre du jour                    | mobi   | 24/03/2018 | 28/03/2018 |
+| Jonathan Littell     | Les bienvaillantes                 | mobi   | 28/03/2018 | 02/08/2018 |
+| Marc Dugain          | La chambre des officiers           | papier | 03/08/2018 | 07/08/2018 |
+| Umberto Eco          | Le nom de la rose                  | mobi   | 07/08/2018 | 12/10/2018 |
+| Arturo Perez-Reverte | Falco                              | papier | 26/01/2019 |            |
+|----------------------+------------------------------------+--------+------------+------------|
 
 * Non terminés
 
