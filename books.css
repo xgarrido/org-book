@@ -57,7 +57,7 @@ h1{
 	-moz-box-sizing: border-box;
 	border-left: 1px dashed rgba(0,0,0,.1);
 	color: rgba(0,0,0,.3);
-	position: absolute;
+	position: fixed;
 	top: 0;
 	bottom: 0;
 	padding-left: 10px;
