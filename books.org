@@ -26,16 +26,17 @@
 
 * Société
 
-|--------------------+---------------------------------+--------+------------+------------|
-| Auteur             | Titre                           | Format | Start      | Stop       |
-|--------------------+---------------------------------+--------+------------+------------|
-| Michel Onfray      | Traité d'athéologie             | mobi   | 14/11/2014 | 04/01/2015 |
-| Yannick Roudault   | La nouvelle controverse         | papier | 19/12/2014 | 22/02/2015 |
-| Marc Trévidic      | Terroristes                     | mobi   | 11/12/2015 | 16/12/2015 |
-| Gilles Kepel       | Terreur dans l'Hexagone         | mobi   | 20/12/2015 | 12/01/2016 |
-| Gilles Kepel       | La laïcité contre la fracture ? | papier | 26/02/2018 | 26/02/2018 |
-| Raphaël Glucksmann | Les enfants du vide             | papier | 12/01/2019 | 26/01/2019 |
-|--------------------+---------------------------------+--------+------------+------------|
+|--------------------+-----------------------------------------------+--------+------------+------------|
+| Auteur             | Titre                                         | Format | Start      | Stop       |
+|--------------------+-----------------------------------------------+--------+------------+------------|
+| Michel Onfray      | Traité d'athéologie                           | mobi   | 14/11/2014 | 04/01/2015 |
+| Michel Onfray      | Décadence, vie et mort du judéo-christianisme | mobi   | 22/02/2019 |            |
+| Yannick Roudault   | La nouvelle controverse                       | papier | 19/12/2014 | 22/02/2015 |
+| Marc Trévidic      | Terroristes                                   | mobi   | 11/12/2015 | 16/12/2015 |
+| Gilles Kepel       | Terreur dans l'Hexagone                       | mobi   | 20/12/2015 | 12/01/2016 |
+| Gilles Kepel       | La laïcité contre la fracture ?               | papier | 26/02/2018 | 26/02/2018 |
+| Raphaël Glucksmann | Les enfants du vide                           | papier | 12/01/2019 | 26/01/2019 |
+|--------------------+-----------------------------------------------+--------+------------+------------|
 
 * Histoire
 
@@ -101,6 +102,7 @@
 | Umberto Eco          | Le nom de la rose                  | mobi   | 07/08/2018 | 12/10/2018 |
 | Arturo Perez-Reverte | Falco                              | papier | 26/01/2019 | 18/02/2019 |
 | John Steinbeck       | Les raisins de la colère           | mobi   | 13/10/2018 | 20/02/2019 |
+| Pierre Lemaitre      | Cadres noirs                       | papier | 24/02/2019 | 11/03/2019 |
 |----------------------+------------------------------------+--------+------------+------------|
 
 * Non terminés
