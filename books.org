@@ -99,6 +99,7 @@
 | Eric Vuillard        | L'ordre du jour                    | mobi   | 24/03/2018 | 28/03/2018 |
 | Jonathan Littell     | Les bienvaillantes                 | mobi   | 28/03/2018 | 02/08/2018 |
 | Marc Dugain          | La chambre des officiers           | papier | 03/08/2018 | 07/08/2018 |
+| Marc Dugain          | Ils vont tuer Robert Kennedy       | mobi   | 30/03/2019 |            |
 | Umberto Eco          | Le nom de la rose                  | mobi   | 07/08/2018 | 12/10/2018 |
 | Arturo Perez-Reverte | Falco                              | papier | 26/01/2019 | 18/02/2019 |
 | John Steinbeck       | Les raisins de la colère           | mobi   | 13/10/2018 | 20/02/2019 |
