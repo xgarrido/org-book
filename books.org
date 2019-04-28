@@ -78,6 +78,7 @@
 | Michel Houellbecq    | Plateforme                         | mobi   | 06/03/2015 | 06/04/2015 |
 | Michel Houellbecq    | La carte et le territoire          | mobi   | 07/04/2015 | 23/04/2015 |
 | Michel Houellbecq    | Soumission                         | mobi   | 03/09/2016 | 16/09/2016 |
+| Michel Houellbecq    | Sérotonine                         | mobi   | 28/04/2019 |            |
 | Jérôme Ferrari       | Le principe                        | papier | 22/03/2015 | 29/03/2015 |
 | Ernest Hemingway     | Paris est une fête                 | mobi   | 18/12/2015 | 26/12/2015 |
 | Boualem Sansal       | 2084                               | mobi   | 09/02/2016 | 07/03/2016 |
@@ -99,7 +100,7 @@
 | Eric Vuillard        | L'ordre du jour                    | mobi   | 24/03/2018 | 28/03/2018 |
 | Jonathan Littell     | Les bienvaillantes                 | mobi   | 28/03/2018 | 02/08/2018 |
 | Marc Dugain          | La chambre des officiers           | papier | 03/08/2018 | 07/08/2018 |
-| Marc Dugain          | Ils vont tuer Robert Kennedy       | mobi   | 30/03/2019 |            |
+| Marc Dugain          | Ils vont tuer Robert Kennedy       | mobi   | 30/03/2019 | 28/04/2019 |
 | Umberto Eco          | Le nom de la rose                  | mobi   | 07/08/2018 | 12/10/2018 |
 | Arturo Perez-Reverte | Falco                              | papier | 26/01/2019 | 18/02/2019 |
 | John Steinbeck       | Les raisins de la colère           | mobi   | 13/10/2018 | 20/02/2019 |
