@@ -78,7 +78,8 @@
 | Michel Houellbecq    | Plateforme                         | mobi   | 06/03/2015 | 06/04/2015 |
 | Michel Houellbecq    | La carte et le territoire          | mobi   | 07/04/2015 | 23/04/2015 |
 | Michel Houellbecq    | Soumission                         | mobi   | 03/09/2016 | 16/09/2016 |
-| Michel Houellbecq    | Sérotonine                         | mobi   | 28/04/2019 |            |
+| Michel Houellbecq    | Sérotonine                         | mobi   | 28/04/2019 | 10/05/2019 |
+| Haruki Marukami      | Des hommes sans femmes             | mobi   | 10/05/2019 | 27/06/2019 |
 | Jérôme Ferrari       | Le principe                        | papier | 22/03/2015 | 29/03/2015 |
 | Ernest Hemingway     | Paris est une fête                 | mobi   | 18/12/2015 | 26/12/2015 |
 | Boualem Sansal       | 2084                               | mobi   | 09/02/2016 | 07/03/2016 |
