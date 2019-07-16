@@ -108,6 +108,7 @@
 | John Steinbeck       | Les raisins de la colère           | mobi   | 13/10/2018 | 20/02/2019 |
 | Pierre Lemaitre      | Cadres noirs                       | papier | 24/02/2019 | 11/03/2019 |
 | Philippe Lançon      | Le lambeau                         | mobi   | 02/07/2019 |            |
+| Virginie Despentes   | Vernon Subutex T1                  | mobi   | 13/07/2019 |            |
 |----------------------+------------------------------------+--------+------------+------------|
 
 * Non terminés
