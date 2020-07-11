@@ -112,6 +112,7 @@
 | Arturo Perez-Reverte     | Falco                              | papier | 26/01/2019 | 18/02/2019 |
 | John Steinbeck           | Les raisins de la colère           | mobi   | 13/10/2018 | 20/02/2019 |
 | Pierre Lemaitre          | Cadres noirs                       | papier | 24/02/2019 | 11/03/2019 |
+| Pierre Lemaitre          | Au revoir là-haut                  | papier | 04/07/2020 |            |
 | Philippe Lançon          | Le lambeau                         | mobi   | 02/07/2019 | 22/01/2020 |
 | Virginie Despentes       | Vernon Subutex T1                  | mobi   | 13/07/2019 | 30/07/2019 |
 | Virginie Despentes       | Vernon Subutex T2                  | mobi   | 30/07/2019 | 09/08/2019 |
