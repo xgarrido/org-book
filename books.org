@@ -122,6 +122,7 @@
 | Bruno Tessarech          | Les sentinelles                    | papier | 22/01/2020 | 23/02/2020 |
 | Chimamanda Ngozi Adichie | Americanah                         | mobi   | 22/01/2020 | 18/09/2020 |
 | Edward Snowden           | Mémoires vives                     | mobi   | 17/10/2020 | 15/11/2020 |
+| Hervé Le Tellier         | L'anomalie                         | mobi   | 21/12/2020 |            |
 |--------------------------+------------------------------------+--------+------------+------------|
 
 * Non terminés
