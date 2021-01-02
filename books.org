@@ -36,6 +36,7 @@
 | Marc Trévidic      | Terroristes                     | mobi   | 11/12/2015 | 16/12/2015 |
 | Gilles Kepel       | Terreur dans l'Hexagone         | mobi   | 20/12/2015 | 12/01/2016 |
 | Gilles Kepel       | La laïcité contre la fracture ? | papier | 26/02/2018 | 26/02/2018 |
+| Gilles Kepel       | La revanche de Dieu             | mobi   | 29/12/2020 |            |
 | Raphaël Glucksmann | Les enfants du vide             | papier | 12/01/2019 | 26/01/2019 |
 |--------------------+---------------------------------+--------+------------+------------|
 
@@ -124,6 +125,7 @@
 | Edward Snowden           | Mémoires vives                     | mobi   | 17/10/2020 | 15/11/2020 |
 | Hervé Le Tellier         | L'anomalie                         | mobi   | 21/12/2020 | 25/12/2020 |
 | Hervé Le Tellier         | Moi et François Mitterand          | mobi   | 29/12/2020 | 29/12/2020 |
+| Fernando Arumburu        | Patria                             | mobi   | 29/12/2020 |            |
 |--------------------------+------------------------------------+--------+------------+------------|
 
 * Non terminés
