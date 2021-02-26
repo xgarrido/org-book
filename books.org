@@ -127,6 +127,7 @@
 | Hervé Le Tellier         | Moi et François Mitterand          | mobi   | 29/12/2020 | 29/12/2020 |
 | Fernando Arumburu        | Patria                             | mobi   | 29/12/2020 | 10/02/2021 |
 | Florence Aubenas         | L'inconnu de la poste              | mobi   | 18/02/2021 | 26/02/2021 |
+| Patrick Süskind          | Le parfum                          | mobi   | 26/02/2021 |            |
 |--------------------------+------------------------------------+--------+------------+------------|
 
 * Non terminés
