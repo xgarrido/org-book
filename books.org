@@ -96,6 +96,7 @@
 | Mathias Enard            | Boussole                           | mobi   | 25/11/2016 | 24/05/2017 |
 | Georges Orwell           | Hommage à la Catalogne             | papier | 18/06/2017 | 18/03/2018 |
 | Georges Orwell           | 1984                               | mobi   | 28/10/2017 | 16/01/2018 |
+| Georges Orwell           | La ferme des animaux               | papier | 13/02/2021 |            |
 | Roberto Saviano          | Gomorra                            | mobi   | 21/06/2017 | 09/07/2017 |
 | Roberto Saviano          | Piranhas                           | mobi   | 12/10/2018 | 22/10/2018 |
 | Roberto Saviano          | Baiser féroce                      | papier | 12/09/2019 | 10/11/2019 |
@@ -127,7 +128,7 @@
 | Hervé Le Tellier         | Moi et François Mitterand          | mobi   | 29/12/2020 | 29/12/2020 |
 | Fernando Arumburu        | Patria                             | mobi   | 29/12/2020 | 10/02/2021 |
 | Florence Aubenas         | L'inconnu de la poste              | mobi   | 18/02/2021 | 26/02/2021 |
-| Patrick Süskind          | Le parfum                          | mobi   | 26/02/2021 |            |
+| Patrick Süskind          | Le parfum                          | mobi   | 26/02/2021 | 12/03/2021 |
 |--------------------------+------------------------------------+--------+------------+------------|
 
 * Non terminés
