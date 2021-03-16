@@ -129,7 +129,7 @@
 | Fernando Arumburu        | Patria                             | mobi   | 29/12/2020 | 10/02/2021 |
 | Florence Aubenas         | L'inconnu de la poste              | mobi   | 18/02/2021 | 26/02/2021 |
 | Patrick Süskind          | Le parfum                          | mobi   | 26/02/2021 | 12/03/2021 |
-| Camille Kouchner         | La familia grande                  | mobi   | 14/03/2021 |            |
+| Camille Kouchner         | La familia grande                  | mobi   | 14/03/2021 | 16/03/2021 |
 |--------------------------+------------------------------------+--------+------------+------------|
 
 * Non terminés
