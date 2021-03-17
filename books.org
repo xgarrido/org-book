@@ -38,6 +38,7 @@
 | Gilles Kepel       | La laïcité contre la fracture ? | papier | 26/02/2018 | 26/02/2018 |
 | Gilles Kepel       | La revanche de Dieu             | mobi   | 29/12/2020 |            |
 | Raphaël Glucksmann | Les enfants du vide             | papier | 12/01/2019 | 26/01/2019 |
+| Laurent Fabius     | Rouge carbone                   | papier | 16/03/2021 |            |
 |--------------------+---------------------------------+--------+------------+------------|
 
 * Histoire
@@ -130,6 +131,7 @@
 | Florence Aubenas         | L'inconnu de la poste              | mobi   | 18/02/2021 | 26/02/2021 |
 | Patrick Süskind          | Le parfum                          | mobi   | 26/02/2021 | 12/03/2021 |
 | Camille Kouchner         | La familia grande                  | mobi   | 14/03/2021 | 16/03/2021 |
+| Ahmadou Kourouma         | Allah n'est pas obligé             | mobi   | 17/03/2021 |            |
 |--------------------------+------------------------------------+--------+------------+------------|
 
 * Non terminés
