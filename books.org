@@ -121,6 +121,7 @@
 | Pierre Lemaitre          | Au revoir là-haut                  | papier | 04/07/2020 | 22/07/2020 |
 | Pierre Lemaitre          | Couleurs de l'incendie             | mobi   | 19/09/2020 | 30/09/2020 |
 | Pierre Lemaitre          | Miroir de nos peines               | mobi   | 01/10/2020 | 17/10/2020 |
+| Pierre Lemaitre          | Trois nuits et une vie             | papier | 12/07/2021 | 17/07/2021 |
 | Philippe Lançon          | Le lambeau                         | mobi   | 02/07/2019 | 22/01/2020 |
 | Virginie Despentes       | Vernon Subutex T1                  | mobi   | 13/07/2019 | 30/07/2019 |
 | Virginie Despentes       | Vernon Subutex T2                  | mobi   | 30/07/2019 | 09/08/2019 |
