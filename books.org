@@ -36,9 +36,8 @@
 | Marc Trévidic      | Terroristes                     | mobi   | 11/12/2015 | 16/12/2015 |
 | Gilles Kepel       | Terreur dans l'Hexagone         | mobi   | 20/12/2015 | 12/01/2016 |
 | Gilles Kepel       | La laïcité contre la fracture ? | papier | 26/02/2018 | 26/02/2018 |
-| Gilles Kepel       | La revanche de Dieu             | mobi   | 29/12/2020 |            |
 | Raphaël Glucksmann | Les enfants du vide             | papier | 12/01/2019 | 26/01/2019 |
-| Laurent Fabius     | Rouge carbone                   | papier | 16/03/2021 | 24/03/2021  |
+| Laurent Fabius     | Rouge carbone                   | papier | 16/03/2021 | 24/03/2021 |
 |--------------------+---------------------------------+--------+------------+------------|
 
 * Histoire
@@ -50,7 +49,6 @@
 | Stefan Zweig                      | Joseph Fouché           | mobi   | 13/09/2017 | 26/09/2017 |
 | Stefan Zweig                      | Marie-Antoinette        | mobi   | 26/09/2017 | 27/10/2017 |
 | Stefan Zweig                      | Marie Stuart            | mobi   | 27/02/2018 | 24/03/2018 |
-| Daniel Cordier                    | Alias Caracalla         | papier | 15/02/2020 |            |
 | Svetlana Aleksievitch             | La fin de l'homme rouge | mobi   | 15/02/2020 | 09/08/2020 |
 | Svetlana Aleksievitch             | Les cercueils de zinc   | papier | 15/05/2021 | 20/10/2021 |
 | Jean-Pierre Azéma & Michel Winock | Les communards          | papier | 07/05/2021 | 10/05/2021 |
@@ -125,7 +123,7 @@
 | Pierre Lemaitre          | Couleurs de l'incendie             | mobi   | 19/09/2020 | 30/09/2020 |
 | Pierre Lemaitre          | Miroir de nos peines               | mobi   | 01/10/2020 | 17/10/2020 |
 | Pierre Lemaitre          | Trois nuits et une vie             | papier | 12/07/2021 | 17/07/2021 |
-| Pierre Lemaitre          | Le grand monde                     | papier | 07/03/2022 |            |
+| Pierre Lemaitre          | Le grand monde                     | papier | 07/03/2022 | 17/04/2022 |
 | Philippe Lançon          | Le lambeau                         | mobi   | 02/07/2019 | 22/01/2020 |
 | Virginie Despentes       | Vernon Subutex T1                  | mobi   | 13/07/2019 | 30/07/2019 |
 | Virginie Despentes       | Vernon Subutex T2                  | mobi   | 30/07/2019 | 09/08/2019 |
@@ -154,4 +152,6 @@
 | Vikram Chandra | Geek sublime                                  | papier | 22/02/2015 |      |
 | Thomas Piketty | Le capital au XXI^{ème} siècle                   | mobi   | 22/04/2015 |      |
 | Michel Onfray  | Décadence, vie et mort du judéo-christianisme | mobi   | 22/02/2019 |      |
+| Daniel Cordier | Alias Caracalla                               | papier | 15/02/2020 |      |
+| Gilles Kepel   | La revanche de Dieu                           | mobi   | 29/12/2020 |      |
 |----------------+-----------------------------------------------+--------+------------+------|
