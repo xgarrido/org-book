@@ -104,6 +104,7 @@
 | Roberto Saviano          | Gomorra                            | mobi   | 21/06/2017 | 09/07/2017 |
 | Roberto Saviano          | Piranhas                           | mobi   | 12/10/2018 | 22/10/2018 |
 | Roberto Saviano          | Baiser féroce                      | papier | 12/09/2019 | 10/11/2019 |
+| Roberto Saviano          | Crie-le !                          | papier | 12/01/2023 |            |
 | Albert Camus             | L'étranger                         | mobi   | 10/07/2017 | 15/07/2017 |
 | Kamel Daoud              | Mersault, contre enquête           | mobi   | 15/07/2017 | 29/07/2017 |
 | Harper Lee               | Ne tirez pas sur l'oiseau moqueur  | mobi   | 29/07/2017 | 11/08/2017 |
@@ -128,12 +129,14 @@
 | Pierre Lemaitre          | Miroir de nos peines               | mobi   | 01/10/2020 | 17/10/2020 |
 | Pierre Lemaitre          | Trois nuits et une vie             | papier | 12/07/2021 | 17/07/2021 |
 | Pierre Lemaitre          | Le grand monde                     | papier | 07/03/2022 | 17/04/2022 |
+| Pierre Lemaitre          | Le silence et la colère            | papier | 18/04/2023 |            |
 | Philippe Lançon          | Le lambeau                         | mobi   | 02/07/2019 | 22/01/2020 |
 | Virginie Despentes       | Vernon Subutex T1                  | mobi   | 13/07/2019 | 30/07/2019 |
 | Virginie Despentes       | Vernon Subutex T2                  | mobi   | 30/07/2019 | 09/08/2019 |
 | Virginie Despentes       | Vernon Subutex T3                  | mobi   | 09/08/2019 | 19/08/2019 |
 | Virginie Despentes       | Apocalypse bébé                    | papier | 05/06/2022 | 14/06/2022 |
 | Virginie Despentes       | King Kong theory                   | papier | 14/06/2022 | 30/06/2022 |
+| Virginie Despentes       | Cher connard                       | mobi   | 22/10/2022 |            |
 | Bruno Tessarech          | Les sentinelles                    | papier | 22/01/2020 | 23/02/2020 |
 | Chimamanda Ngozi Adichie | Americanah                         | mobi   | 22/01/2020 | 18/09/2020 |
 | Edward Snowden           | Mémoires vives                     | mobi   | 17/10/2020 | 15/11/2020 |
@@ -160,4 +163,5 @@
 | Michel Onfray  | Décadence, vie et mort du judéo-christianisme | mobi   | 22/02/2019 |      |
 | Daniel Cordier | Alias Caracalla                               | papier | 15/02/2020 |      |
 | Gilles Kepel   | La revanche de Dieu                           | mobi   | 29/12/2020 |      |
+| Joël Dicker    | L'énigme de la chambre 622                    | papier | 28/08/2022 |      |
 |----------------+-----------------------------------------------+--------+------------+------|
