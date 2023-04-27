@@ -121,7 +121,8 @@
 | Marc Dugain              | Quinquennat                        | papier | 14/05/2022 | 28/05/2022 |
 | Marc Dugain              | Ultime partie                      | papier | 28/05/2022 | 05/06/2022 |
 | Marc Dugain              | Paysages trompeurs                 | mobi   | 23/04/2023 | 24/04/2023 |
-| Marc Dugain              | Tsunami                            | mobi   | 24/04/2023 |            |
+| Marc Dugain              | Tsunami                            | mobi   | 24/04/2023 | 27/04/2023 |
+| Marc Dugain              | La volonté                         | mobi   | 27/04/2023 |            |
 | Umberto Eco              | Le nom de la rose                  | mobi   | 07/08/2018 | 12/10/2018 |
 | Arturo Perez-Reverte     | Falco                              | papier | 26/01/2019 | 18/02/2019 |
 | John Steinbeck           | Les raisins de la colère           | mobi   | 13/10/2018 | 20/02/2019 |
