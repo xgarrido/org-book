@@ -17,6 +17,7 @@
 | Fred Vargas       | L'armée furieuse          | mobi   | 14/09/2015 | 07/10/2015 |
 | Fred Vargas       | Temps glaciaire           | mobi   | 07/10/2015 | 18/10/2015 |
 | Fred Vargas       | Quand sort la recluse     | mobi   | 18/08/2017 | 26/08/2017 |
+| Fred Vargas       | Sur la dalle              | mobi   | 22/05/2023 |            |
 | Stieg Larsson     | Millenium 1               | mobi   | 19/10/2015 | 06/11/2015 |
 | Stieg Larsson     | Millenium 2               | mobi   | 06/11/2015 | 06/12/2015 |
 | Stieg Larsson     | Millenium 3               | mobi   | 06/12/2015 | 05/01/2016 |
@@ -140,6 +141,7 @@
 | Virginie Despentes       | Apocalypse bébé                    | papier | 05/06/2022 | 14/06/2022 |
 | Virginie Despentes       | King Kong theory                   | papier | 14/06/2022 | 30/06/2022 |
 | Virginie Despentes       | Cher connard                       | mobi   | 22/10/2022 | 30/04/2023 |
+| Virginie Despentes       | Baise-moi                          | mobi   | 22/05/2023 |            |
 | Bruno Tessarech          | Les sentinelles                    | papier | 22/01/2020 | 23/02/2020 |
 | Chimamanda Ngozi Adichie | Americanah                         | mobi   | 22/01/2020 | 18/09/2020 |
 | Edward Snowden           | Mémoires vives                     | mobi   | 17/10/2020 | 15/11/2020 |
