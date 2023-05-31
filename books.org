@@ -17,7 +17,7 @@
 | Fred Vargas       | L'armée furieuse          | mobi   | 14/09/2015 | 07/10/2015 |
 | Fred Vargas       | Temps glaciaire           | mobi   | 07/10/2015 | 18/10/2015 |
 | Fred Vargas       | Quand sort la recluse     | mobi   | 18/08/2017 | 26/08/2017 |
-| Fred Vargas       | Sur la dalle              | mobi   | 22/05/2023 |            |
+| Fred Vargas       | Sur la dalle              | mobi   | 22/05/2023 | 31/05/2023 |
 | Stieg Larsson     | Millenium 1               | mobi   | 19/10/2015 | 06/11/2015 |
 | Stieg Larsson     | Millenium 2               | mobi   | 06/11/2015 | 06/12/2015 |
 | Stieg Larsson     | Millenium 3               | mobi   | 06/12/2015 | 05/01/2016 |
