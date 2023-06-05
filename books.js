@@ -81,6 +81,8 @@ var books = {
                         color = '#e67e22';
                     } else if (/Non/.test(l)) {
                         topushed = false;
+                    } else if (/À lire/.test(l)) {
+                        topushed = false;
                     }
                     // console.log(l);
                     return;
