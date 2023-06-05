@@ -154,7 +154,6 @@
 | Ahmadou Kourouma         | Allah n'est pas obligé             | mobi   | 17/03/2021 | 04/12/2021 |
 | Ariel Magnus             | Eichmann à Buenos Aires            | papier | 09/10/2021 | 18/12/2021 |
 | Abel Quentin             | Le voyant d'Etampes                | papier | 05/01/2022 | 19/01/2022 |
-| Maria Pourchet           | Feu                                | papier | 10/02/2022 |            |
 | Giuliano da Empoli       | Le mage du Kremlin                 | papier | 10/05/2023 | 17/05/2023 |
 |--------------------------+------------------------------------+--------+------------+------------|
 
@@ -170,6 +169,7 @@
 | Daniel Cordier | Alias Caracalla                               | papier | 15/02/2020 |      |
 | Gilles Kepel   | La revanche de Dieu                           | mobi   | 29/12/2020 |      |
 | Joël Dicker    | L'énigme de la chambre 622                    | papier | 28/08/2022 |      |
+| Maria Pourchet | Feu                                           | papier | 10/02/2022 |      |
 |----------------+-----------------------------------------------+--------+------------+------|
 
 * À lire
