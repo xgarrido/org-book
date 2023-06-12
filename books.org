@@ -141,7 +141,7 @@
 | Virginie Despentes       | Apocalypse bébé                    | papier | 05/06/2022 | 14/06/2022 |
 | Virginie Despentes       | King Kong theory                   | papier | 14/06/2022 | 30/06/2022 |
 | Virginie Despentes       | Cher connard                       | mobi   | 22/10/2022 | 30/04/2023 |
-| Virginie Despentes       | Baise-moi                          | mobi   | 22/05/2023 |            |
+| Virginie Despentes       | Baise-moi                          | mobi   | 22/05/2023 | 11/06/2023 |
 | Bruno Tessarech          | Les sentinelles                    | papier | 22/01/2020 | 23/02/2020 |
 | Chimamanda Ngozi Adichie | Americanah                         | mobi   | 22/01/2020 | 18/09/2020 |
 | Edward Snowden           | Mémoires vives                     | mobi   | 17/10/2020 | 15/11/2020 |
