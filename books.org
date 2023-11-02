@@ -105,7 +105,7 @@
 | Roberto Saviano          | Gomorra                            | mobi   | 21/06/2017 | 09/07/2017 |
 | Roberto Saviano          | Piranhas                           | mobi   | 12/10/2018 | 22/10/2018 |
 | Roberto Saviano          | Baiser féroce                      | papier | 12/09/2019 | 10/11/2019 |
-| Roberto Saviano          | Crie-le !                          | papier | 12/01/2023 | 27/20/2023 |
+| Roberto Saviano          | Crie-le !                          | papier | 12/01/2023 | 27/10/2023 |
 | Albert Camus             | L'étranger                         | mobi   | 10/07/2017 | 15/07/2017 |
 | Kamel Daoud              | Mersault, contre enquête           | mobi   | 15/07/2017 | 29/07/2017 |
 | Harper Lee               | Ne tirez pas sur l'oiseau moqueur  | mobi   | 29/07/2017 | 11/08/2017 |
