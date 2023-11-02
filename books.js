@@ -235,18 +235,19 @@ var books = {
     }
 };
 
+
 var slider = {
     startingMousePostition: {},
-    startingPagePosition: {},
+    containerOffset: {},
     init: function(){
 	window.addEventListener('mousedown', function(event){
 	    slider.startingMousePostition = {
 		x: event.clientX,
 		y: event.clientY
 	    };
-	    slider.startingPagePosition = {
-		x: window.pageXOffset,
-		y: window.pageYOffset
+	    slider.containerOffset = {
+		x: books.$el.scrollLeft,
+		y: books.$el.scrollTop
 	    };
 	    window.addEventListener('mousemove', slider.slide);
 	});
@@ -256,11 +257,38 @@ var slider = {
     },
     slide: function(event){
 	event.preventDefault();
-	var x = slider.startingPagePosition.x + (slider.startingMousePostition.x - event.clientX);
-	var y = slider.startingPagePosition.y + (slider.startingMousePostition.y - event.clientY);
-	window.scrollTo(x, y);
+	var x = slider.containerOffset.x + (slider.startingMousePostition.x - event.clientX);
+	var y = slider.containerOffset.y + (slider.startingMousePostition.y - event.clientY);
+	books.$el.scrollLeft = x;
+	books.$el.scrollTop = y;
     }
 };
+// var slider = {
+//     startingMousePostition: {},
+//     startingPagePosition: {},
+//     init: function(){
+// 	window.addEventListener('mousedown', function(event){
+// 	    slider.startingMousePostition = {
+// 		x: event.clientX,
+// 		y: event.clientY
+// 	    };
+// 	    slider.startingPagePosition = {
+// 		x: window.pageXOffset,
+// 		y: window.pageYOffset
+// 	    };
+// 	    window.addEventListener('mousemove', slider.slide);
+// 	});
+// 	window.addEventListener('mouseup', function(event){
+// 	    window.removeEventListener('mousemove', slider.slide);
+// 	});
+//     },
+//     slide: function(event){
+// 	event.preventDefault();
+// 	var x = slider.startingPagePosition.x + (slider.startingMousePostition.x - event.clientX);
+// 	var y = slider.startingPagePosition.y + (slider.startingMousePostition.y - event.clientY);
+// 	window.scrollTo(x, y);
+//     }
+// };
 
 books.start();
 slider.init();
