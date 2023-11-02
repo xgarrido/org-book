@@ -1,4 +1,4 @@
-#+TITLE: Inventaire des livres lus
+#+TITLE: Books
 #+AUTHOR: Xavier Garrido
 #+DESCRIPTION: Document contenant les noms des auteurs et
 #+DESCRIPTION: les titres de livres lus dans un passé ± récent
