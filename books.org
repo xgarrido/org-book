@@ -157,7 +157,7 @@
 | Ariel Magnus             | Eichmann à Buenos Aires            | papier | 09/10/2021 | 18/12/2021 |
 | Abel Quentin             | Le voyant d'Etampes                | papier | 05/01/2022 | 19/01/2022 |
 | Giuliano da Empoli       | Le mage du Kremlin                 | papier | 10/05/2023 | 17/05/2023 |
-| Gabriel Garcia Marquez   | Cent ans de solitude               | mobi   | 18/09/2023 |            |
+| Gabriel Garcia Marquez   | Cent ans de solitude               | mobi   | 18/09/2023 | 05/11/2023 |
 |--------------------------+------------------------------------+--------+------------+------------|
 
 * Non terminés
