@@ -25,6 +25,7 @@
 | David Lagercrantz | Millenium 5               | mobi   | 11/02/2018 | 23/02/2018 |
 | David Lagercrantz | Millenium 6               | mobi   | 29/08/2019 | 07/09/2019 |
 | Marc Fernandez    | Mala vida                 | papier | 09/01/2020 | 26/01/2020 |
+| Nils Barrellon    | Le neutrino de Majorana   | papier | 05/11/2023 | 23/12/2023 |
 |-------------------+---------------------------+--------+------------+------------|
 
 * Société
