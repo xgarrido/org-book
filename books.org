@@ -162,7 +162,7 @@
 | Gabriel Garcia Marquez   | L'amour au temps du choléra        | papier | 25/01/2024 | 18/05/2024 |
 | Loretto Urraca Luque     | Comme des hyènes                   | papier | 23/12/2023 | 25/01/2024 |
 | Douglas Kennedy          | Les hommes ont peur de la lumière  | papier | 22/05/2024 | 25/05/2024 |
-| Douglas Kennedy          | Et c'est ainsi que nous vivrons    | papier | 08/06/2024 |            |
+| Douglas Kennedy          | Et c'est ainsi que nous vivrons    | papier | 08/06/2024 | 14/06/2024 |
 |--------------------------+------------------------------------+--------+------------+------------|
 
 * Non terminés
