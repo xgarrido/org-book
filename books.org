@@ -40,6 +40,7 @@
 | Gilles Kepel       | La laïcité contre la fracture ? | papier | 26/02/2018 | 26/02/2018 |
 | Raphaël Glucksmann | Les enfants du vide             | papier | 12/01/2019 | 26/01/2019 |
 | Laurent Fabius     | Rouge carbone                   | papier | 16/03/2021 | 24/03/2021 |
+| Giuliano da Empoli | Les ingénieurs du chaos         | papier | 28/07/2024 | 31/07/2024 |
 |--------------------+---------------------------------+--------+------------+------------|
 
 * Histoire
@@ -164,7 +165,7 @@
 | Loretto Urraca Luque     | Comme des hyènes                   | papier | 23/12/2023 | 25/01/2024 |
 | Douglas Kennedy          | Les hommes ont peur de la lumière  | papier | 22/05/2024 | 25/05/2024 |
 | Douglas Kennedy          | Et c'est ainsi que nous vivrons    | papier | 08/06/2024 | 14/06/2024 |
-| Tom Wolfe                | Un homme, un vrai                  | papier | 21/06/2014 |            |
+| Tom Wolfe                | Un homme, un vrai                  | papier | 21/06/2024 | 28/07/2024 |
 |--------------------------+------------------------------------+--------+------------+------------|
 
 * Non terminés
