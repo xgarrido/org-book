@@ -159,7 +159,7 @@
 | Ahmadou Kourouma         | Allah n'est pas obligé                 | mobi   | 17/03/2021 | 04/12/2021 |
 | Ariel Magnus             | Eichmann à Buenos Aires                | papier | 09/10/2021 | 18/12/2021 |
 | Abel Quentin             | Le voyant d'Etampes                    | papier | 05/01/2022 | 19/01/2022 |
-| Abel Quentin             | Cabane                                 | mobi   | 23/09/2024 |            |
+| Abel Quentin             | Cabane                                 | mobi   | 23/09/2024 | 01/10/2024 |
 | Giuliano da Empoli       | Le mage du Kremlin                     | papier | 10/05/2023 | 17/05/2023 |
 | Gabriel Garcia Marquez   | Cent ans de solitude                   | mobi   | 18/09/2023 | 05/11/2023 |
 | Gabriel Garcia Marquez   | L'amour au temps du choléra            | papier | 25/01/2024 | 18/05/2024 |
@@ -168,6 +168,7 @@
 | Douglas Kennedy          | Et c'est ainsi que nous vivrons        | papier | 08/06/2024 | 14/06/2024 |
 | Tom Wolfe                | Un homme, un vrai                      | papier | 21/06/2024 | 28/07/2024 |
 | Aurélien Bellanger       | Les derniers jours du Parti socialiste | mobi   | 08/09/2024 | 23/09/2024 |
+| Aurélien Bellanger       | L'aménagement du territoire            | mobi   | 01/10/2024 |            |
 |--------------------------+----------------------------------------+--------+------------+------------|
 
 * Non terminés
