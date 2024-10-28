@@ -58,6 +58,7 @@
 | Michelle Audin                      | La semaine sanglante    | papier | 10/05/2021 | 15/05/2021 |
 | Alexandre Soljenitsyne              | L'archipel du goulag    | papier | 15/06/2024 |            |
 | Johann Chapoutot & Christian Ingrao | Hitler                  | papier | 04/09/2024 | 07/09/2024 |
+| Bruno Patino                        | Rire avec le diable     | papier | 25/10/2024 | 25/10/2024 |
 |-------------------------------------+-------------------------+--------+------------+------------|
 
 * Science
@@ -168,7 +169,7 @@
 | Douglas Kennedy          | Et c'est ainsi que nous vivrons        | papier | 08/06/2024 | 14/06/2024 |
 | Tom Wolfe                | Un homme, un vrai                      | papier | 21/06/2024 | 28/07/2024 |
 | Aurélien Bellanger       | Les derniers jours du Parti socialiste | mobi   | 08/09/2024 | 23/09/2024 |
-| Aurélien Bellanger       | L'aménagement du territoire            | mobi   | 01/10/2024 |            |
+| Aurélien Bellanger       | L'aménagement du territoire            | mobi   | 01/10/2024 | 27/10/2024 |
 |--------------------------+----------------------------------------+--------+------------+------------|
 
 * Non terminés
