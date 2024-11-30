@@ -95,7 +95,7 @@
 | Michel Houellebecq       | Anéantir                               | papier | 21/01/2022 | 10/02/2022 |
 | Haruki Marukami          | Des hommes sans femmes                 | mobi   | 10/05/2019 | 27/06/2019 |
 | Jérôme Ferrari           | Le principe                            | papier | 22/03/2015 | 29/03/2015 |
-| Jérôme Ferrari           | Le sermon sur la chute de Rome         | papier | 02/11/2024 |            |
+| Jérôme Ferrari           | Le sermon sur la chute de Rome         | papier | 02/11/2024 | 07/11/2024 |
 | Ernest Hemingway         | Paris est une fête                     | mobi   | 18/12/2015 | 26/12/2015 |
 | Boualem Sansal           | 2084                                   | mobi   | 09/02/2016 | 07/03/2016 |
 | Laurent Seksik           | Le cas Eduard Einstein                 | papier | 15/07/2016 | 25/07/2016 |
@@ -114,11 +114,12 @@
 | Roberto Saviano          | Crie-le !                              | papier | 12/01/2023 | 27/10/2023 |
 | Albert Camus             | L'étranger                             | mobi   | 10/07/2017 | 15/07/2017 |
 | Kamel Daoud              | Mersault, contre enquête               | mobi   | 15/07/2017 | 29/07/2017 |
+| Kamel Daoud              | Houris                                 | mobi   | 07/11/2024 |            |
 | Harper Lee               | Ne tirez pas sur l'oiseau moqueur      | mobi   | 29/07/2017 | 11/08/2017 |
 | Stefan Zweig             | Le joueur d'échec                      | mobi   | 27/10/2017 | 28/10/2017 |
 | Olivier Guez             | La disparition de Josef Mengele        | papier | 02/02/2018 | 11/02/2018 |
 | Eric Vuillard            | L'ordre du jour                        | mobi   | 24/03/2018 | 28/03/2018 |
-| Jonathan Littell         | Les bienvaillantes                     | mobi   | 28/03/2018 | 02/08/2018 |
+| Jonathan Littell         | Les bienvaillantes                     | papier | 28/03/2018 | 02/08/2018 |
 | Marc Dugain              | La chambre des officiers               | papier | 03/08/2018 | 07/08/2018 |
 | Marc Dugain              | Ils vont tuer Robert Kennedy           | mobi   | 30/03/2019 | 28/04/2019 |
 | Marc Dugain              | Transparence                           | papier | 27/06/2019 | 02/07/2019 |
@@ -135,16 +136,16 @@
 | John Steinbeck           | Les raisins de la colère               | mobi   | 13/10/2018 | 20/02/2019 |
 | Pierre Lemaitre          | Cadres noirs                           | papier | 24/02/2019 | 11/03/2019 |
 | Pierre Lemaitre          | Au revoir là-haut                      | papier | 04/07/2020 | 22/07/2020 |
-| Pierre Lemaitre          | Couleurs de l'incendie                 | mobi   | 19/09/2020 | 30/09/2020 |
-| Pierre Lemaitre          | Miroir de nos peines                   | mobi   | 01/10/2020 | 17/10/2020 |
+| Pierre Lemaitre          | Couleurs de l'incendie                 | papier | 19/09/2020 | 30/09/2020 |
+| Pierre Lemaitre          | Miroir de nos peines                   | papier | 01/10/2020 | 17/10/2020 |
 | Pierre Lemaitre          | Trois nuits et une vie                 | papier | 12/07/2021 | 17/07/2021 |
 | Pierre Lemaitre          | Le grand monde                         | papier | 07/03/2022 | 17/04/2022 |
 | Pierre Lemaitre          | Le silence et la colère                | papier | 18/04/2023 | 23/04/2023 |
 | Pierre Lemaitre          | Le serpent majuscule                   | papier | 24/06/2023 | 08/07/2023 |
-| Philippe Lançon          | Le lambeau                             | mobi   | 02/07/2019 | 22/01/2020 |
-| Virginie Despentes       | Vernon Subutex T1                      | mobi   | 13/07/2019 | 30/07/2019 |
-| Virginie Despentes       | Vernon Subutex T2                      | mobi   | 30/07/2019 | 09/08/2019 |
-| Virginie Despentes       | Vernon Subutex T3                      | mobi   | 09/08/2019 | 19/08/2019 |
+| Philippe Lançon          | Le lambeau                             | papier | 02/07/2019 | 22/01/2020 |
+| Virginie Despentes       | Vernon Subutex T1                      | papier | 13/07/2019 | 30/07/2019 |
+| Virginie Despentes       | Vernon Subutex T2                      | papier | 30/07/2019 | 09/08/2019 |
+| Virginie Despentes       | Vernon Subutex T3                      | papier | 09/08/2019 | 19/08/2019 |
 | Virginie Despentes       | Apocalypse bébé                        | papier | 05/06/2022 | 14/06/2022 |
 | Virginie Despentes       | King Kong theory                       | papier | 14/06/2022 | 30/06/2022 |
 | Virginie Despentes       | Cher connard                           | mobi   | 22/10/2022 | 30/04/2023 |
@@ -154,23 +155,24 @@
 | Edward Snowden           | Mémoires vives                         | mobi   | 17/10/2020 | 15/11/2020 |
 | Hervé Le Tellier         | L'anomalie                             | mobi   | 21/12/2020 | 25/12/2020 |
 | Hervé Le Tellier         | Moi et François Mitterand              | mobi   | 29/12/2020 | 29/12/2020 |
-| Fernando Arumburu        | Patria                                 | mobi   | 29/12/2020 | 10/02/2021 |
-| Florence Aubenas         | L'inconnu de la poste                  | mobi   | 18/02/2021 | 26/02/2021 |
+| Fernando Arumburu        | Patria                                 | papier | 29/12/2020 | 10/02/2021 |
+| Florence Aubenas         | L'inconnu de la poste                  | papier | 18/02/2021 | 26/02/2021 |
 | Patrick Süskind          | Le parfum                              | mobi   | 26/02/2021 | 12/03/2021 |
-| Camille Kouchner         | La familia grande                      | mobi   | 14/03/2021 | 16/03/2021 |
+| Camille Kouchner         | La familia grande                      | papier | 14/03/2021 | 16/03/2021 |
 | Ahmadou Kourouma         | Allah n'est pas obligé                 | mobi   | 17/03/2021 | 04/12/2021 |
 | Ariel Magnus             | Eichmann à Buenos Aires                | papier | 09/10/2021 | 18/12/2021 |
 | Abel Quentin             | Le voyant d'Etampes                    | papier | 05/01/2022 | 19/01/2022 |
-| Abel Quentin             | Cabane                                 | mobi   | 23/09/2024 | 01/10/2024 |
+| Abel Quentin             | Cabane                                 | papier | 23/09/2024 | 01/10/2024 |
 | Giuliano da Empoli       | Le mage du Kremlin                     | papier | 10/05/2023 | 17/05/2023 |
-| Gabriel Garcia Marquez   | Cent ans de solitude                   | mobi   | 18/09/2023 | 05/11/2023 |
+| Gabriel Garcia Marquez   | Cent ans de solitude                   | papier | 18/09/2023 | 05/11/2023 |
 | Gabriel Garcia Marquez   | L'amour au temps du choléra            | papier | 25/01/2024 | 18/05/2024 |
 | Loretto Urraca Luque     | Comme des hyènes                       | papier | 23/12/2023 | 25/01/2024 |
 | Douglas Kennedy          | Les hommes ont peur de la lumière      | papier | 22/05/2024 | 25/05/2024 |
 | Douglas Kennedy          | Et c'est ainsi que nous vivrons        | papier | 08/06/2024 | 14/06/2024 |
 | Tom Wolfe                | Un homme, un vrai                      | papier | 21/06/2024 | 28/07/2024 |
 | Aurélien Bellanger       | Les derniers jours du Parti socialiste | mobi   | 08/09/2024 | 23/09/2024 |
-| Aurélien Bellanger       | L'aménagement du territoire            | mobi   | 01/10/2024 | 27/10/2024 |
+| Aurélien Bellanger       | L'aménagement du territoire            | papier | 01/10/2024 | 27/10/2024 |
+| Arthur Nersesian         | Fuck up                                | papier | 07/11/2024 |            |
 |--------------------------+----------------------------------------+--------+------------+------------|
 
 * Non terminés
