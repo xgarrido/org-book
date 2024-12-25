@@ -18,12 +18,12 @@
 | Fred Vargas       | Temps glaciaire           | papier | 07/10/2015 | 18/10/2015 |
 | Fred Vargas       | Quand sort la recluse     | mobi   | 18/08/2017 | 26/08/2017 |
 | Fred Vargas       | Sur la dalle              | papier | 22/05/2023 | 31/05/2023 |
-| Stieg Larsson     | Millenium 1               | mobi   | 19/10/2015 | 06/11/2015 |
-| Stieg Larsson     | Millenium 2               | mobi   | 06/11/2015 | 06/12/2015 |
-| Stieg Larsson     | Millenium 3               | mobi   | 06/12/2015 | 05/01/2016 |
-| David Lagercrantz | Millenium 4               | mobi   | 08/03/2016 | 06/04/2016 |
-| David Lagercrantz | Millenium 5               | mobi   | 11/02/2018 | 23/02/2018 |
-| David Lagercrantz | Millenium 6               | mobi   | 29/08/2019 | 07/09/2019 |
+| Stieg Larsson     | Millenium 1               | papier | 19/10/2015 | 06/11/2015 |
+| Stieg Larsson     | Millenium 2               | papier | 06/11/2015 | 06/12/2015 |
+| Stieg Larsson     | Millenium 3               | papier | 06/12/2015 | 05/01/2016 |
+| David Lagercrantz | Millenium 4               | papier | 08/03/2016 | 06/04/2016 |
+| David Lagercrantz | Millenium 5               | papier | 11/02/2018 | 23/02/2018 |
+| David Lagercrantz | Millenium 6               | papier | 29/08/2019 | 07/09/2019 |
 | Marc Fernandez    | Mala vida                 | papier | 09/01/2020 | 26/01/2020 |
 | Nils Barrellon    | Le neutrino de Majorana   | papier | 05/11/2023 | 23/12/2023 |
 |-------------------+---------------------------+--------+------------+------------|
@@ -41,6 +41,7 @@
 | Raphaël Glucksmann | Les enfants du vide             | papier | 12/01/2019 | 26/01/2019 |
 | Laurent Fabius     | Rouge carbone                   | papier | 16/03/2021 | 24/03/2021 |
 | Giuliano da Empoli | Les ingénieurs du chaos         | papier | 28/07/2024 | 31/07/2024 |
+| Agnès Levallois    | Le livre noir de Gaza           | papier | 25/12/2024 |            |
 |--------------------+---------------------------------+--------+------------+------------|
 
 * Histoire
@@ -102,21 +103,21 @@
 | Laurent Seksik           | Les derniers jours de Stefan Zweig     | mobi   | 16/10/2016 | 08/11/2016 |
 | Laurent Seksik           | Romain Gary s'en va-t-en guerre        | mobi   | 18/11/2020 | 21/12/2020 |
 | Elie Wiesel              | La nuit                                | mobi   | 04/10/2016 | 10/10/2016 |
-| David Foenkinos          | Charlotte                              | mobi   | 10/10/2016 | 16/10/2016 |
+| David Foenkinos          | Charlotte                              | papier | 10/10/2016 | 16/10/2016 |
 | Jacques Mesrine          | L'instinct de mort                     | mobi   | 08/11/2016 | 25/11/2016 |
 | Mathias Enard            | Boussole                               | mobi   | 25/11/2016 | 24/05/2017 |
 | Georges Orwell           | Hommage à la Catalogne                 | papier | 18/06/2017 | 18/03/2018 |
 | Georges Orwell           | 1984                                   | mobi   | 28/10/2017 | 16/01/2018 |
 | Georges Orwell           | La ferme des animaux                   | papier | 13/02/2021 | 15/02/2021 |
-| Roberto Saviano          | Gomorra                                | mobi   | 21/06/2017 | 09/07/2017 |
-| Roberto Saviano          | Piranhas                               | mobi   | 12/10/2018 | 22/10/2018 |
+| Roberto Saviano          | Gomorra                                | papier | 21/06/2017 | 09/07/2017 |
+| Roberto Saviano          | Piranhas                               | papier | 12/10/2018 | 22/10/2018 |
 | Roberto Saviano          | Baiser féroce                          | papier | 12/09/2019 | 10/11/2019 |
 | Roberto Saviano          | Crie-le !                              | papier | 12/01/2023 | 27/10/2023 |
 | Albert Camus             | L'étranger                             | mobi   | 10/07/2017 | 15/07/2017 |
 | Kamel Daoud              | Mersault, contre enquête               | mobi   | 15/07/2017 | 29/07/2017 |
-| Kamel Daoud              | Houris                                 | mobi   | 07/11/2024 |            |
+| Kamel Daoud              | Houris                                 | mobi   | 07/11/2024 | 24/12/2024 |
 | Harper Lee               | Ne tirez pas sur l'oiseau moqueur      | mobi   | 29/07/2017 | 11/08/2017 |
-| Stefan Zweig             | Le joueur d'échec                      | mobi   | 27/10/2017 | 28/10/2017 |
+| Stefan Zweig             | Le joueur d'échec                      | papier | 27/10/2017 | 28/10/2017 |
 | Olivier Guez             | La disparition de Josef Mengele        | papier | 02/02/2018 | 11/02/2018 |
 | Eric Vuillard            | L'ordre du jour                        | mobi   | 24/03/2018 | 28/03/2018 |
 | Jonathan Littell         | Les bienvaillantes                     | papier | 28/03/2018 | 02/08/2018 |
@@ -172,7 +173,8 @@
 | Tom Wolfe                | Un homme, un vrai                      | papier | 21/06/2024 | 28/07/2024 |
 | Aurélien Bellanger       | Les derniers jours du Parti socialiste | mobi   | 08/09/2024 | 23/09/2024 |
 | Aurélien Bellanger       | L'aménagement du territoire            | papier | 01/10/2024 | 27/10/2024 |
-| Arthur Nersesian         | Fuck up                                | papier | 07/11/2024 |            |
+| Aurélien Bellanger       | La théorie de l'information            | mobi   | 07/12/2024 |            |
+| Arthur Nersesian         | Fuck up                                | papier | 07/11/2024 | 05/12/2024 |
 |--------------------------+----------------------------------------+--------+------------+------------|
 
 * Non terminés
