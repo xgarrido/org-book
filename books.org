@@ -173,8 +173,9 @@
 | Tom Wolfe                | Un homme, un vrai                      | papier | 21/06/2024 | 28/07/2024 |
 | Aurélien Bellanger       | Les derniers jours du Parti socialiste | mobi   | 08/09/2024 | 23/09/2024 |
 | Aurélien Bellanger       | L'aménagement du territoire            | papier | 01/10/2024 | 27/10/2024 |
-| Aurélien Bellanger       | La théorie de l'information            | mobi   | 07/12/2024 |            |
+| Aurélien Bellanger       | La théorie de l'information            | mobi   | 07/12/2024 | 02/01/2025 |
 | Arthur Nersesian         | Fuck up                                | papier | 07/11/2024 | 05/12/2024 |
+| Ernest Callenbach        | Ecotopia                               | papier | 03/01/2025 |            |
 |--------------------------+----------------------------------------+--------+------------+------------|
 
 * Non terminés
