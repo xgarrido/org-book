@@ -26,6 +26,7 @@
 | David Lagercrantz | Millenium 6               | papier | 29/08/2019 | 07/09/2019 |
 | Marc Fernandez    | Mala vida                 | papier | 09/01/2020 | 26/01/2020 |
 | Nils Barrellon    | Le neutrino de Majorana   | papier | 05/11/2023 | 23/12/2023 |
+| James Ellroy      | American tabloid          | mobi   | 13/01/2025 |            |
 |-------------------+---------------------------+--------+------------+------------|
 
 * Société
@@ -41,7 +42,7 @@
 | Raphaël Glucksmann | Les enfants du vide             | papier | 12/01/2019 | 26/01/2019 |
 | Laurent Fabius     | Rouge carbone                   | papier | 16/03/2021 | 24/03/2021 |
 | Giuliano da Empoli | Les ingénieurs du chaos         | papier | 28/07/2024 | 31/07/2024 |
-| Agnès Levallois    | Le livre noir de Gaza           | papier | 25/12/2024 |            |
+| Agnès Levallois    | Le livre noir de Gaza           | papier | 25/12/2024 | 26/01/2025 |
 |--------------------+---------------------------------+--------+------------+------------|
 
 * Histoire
@@ -142,6 +143,7 @@
 | Pierre Lemaitre          | Trois nuits et une vie                 | papier | 12/07/2021 | 17/07/2021 |
 | Pierre Lemaitre          | Le grand monde                         | papier | 07/03/2022 | 17/04/2022 |
 | Pierre Lemaitre          | Le silence et la colère                | papier | 18/04/2023 | 23/04/2023 |
+| Pierre Lemaitre          | Un avenir radieux                      | papier | 26/01/2025 |            |
 | Pierre Lemaitre          | Le serpent majuscule                   | papier | 24/06/2023 | 08/07/2023 |
 | Philippe Lançon          | Le lambeau                             | papier | 02/07/2019 | 22/01/2020 |
 | Virginie Despentes       | Vernon Subutex T1                      | papier | 13/07/2019 | 30/07/2019 |
