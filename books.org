@@ -43,6 +43,7 @@
 | Laurent Fabius     | Rouge carbone                   | papier | 16/03/2021 | 24/03/2021 |
 | Giuliano da Empoli | Les ingénieurs du chaos         | papier | 28/07/2024 | 31/07/2024 |
 | Agnès Levallois    | Le livre noir de Gaza           | papier | 25/12/2024 | 26/01/2025 |
+| Emmanuel Todd      | Qui est Charlie ?               | papier | 25/03/2025 |            |
 |--------------------+---------------------------------+--------+------------+------------|
 
 * Histoire
