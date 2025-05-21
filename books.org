@@ -82,6 +82,7 @@
 | Yuval Noah Harari                     | Sapiens : Une brève histoire de l'humanité | mobi   | 25/11/2016 | 14/06/2017 |
 | Antoine Letessier Selvon              | Kosmos, l'épopée des particules            | papier | 05/01/2019 | 11/01/2019 |
 | Frank Close                           | Le mystère Pontecorvo                      | papier | 07/07/2022 | 05/08/2022 |
+| Giorgio Parisi                        | Comme un vol d'étourneaux                  | papier | 10/05/2025 | 20/05/2025 |
 |---------------------------------------+--------------------------------------------+--------+------------+------------|
 
 * Roman
@@ -104,7 +105,7 @@
 | Laurent Seksik           | Le cas Eduard Einstein                 | papier | 15/07/2016 | 25/07/2016 |
 | Laurent Seksik           | Les derniers jours de Stefan Zweig     | mobi   | 16/10/2016 | 08/11/2016 |
 | Laurent Seksik           | Romain Gary s'en va-t-en guerre        | mobi   | 18/11/2020 | 21/12/2020 |
-| Elie Wiesel              | La nuit                                | mobi   | 04/10/2016 | 10/10/2016 |
+| Elie Wiesel              | La nuit                                | papier | 04/10/2016 | 10/10/2016 |
 | David Foenkinos          | Charlotte                              | papier | 10/10/2016 | 16/10/2016 |
 | Jacques Mesrine          | L'instinct de mort                     | mobi   | 08/11/2016 | 25/11/2016 |
 | Mathias Enard            | Boussole                               | mobi   | 25/11/2016 | 24/05/2017 |
@@ -181,6 +182,8 @@
 | Aurélien Bellanger       | La théorie de l'information            | mobi   | 07/12/2024 | 02/01/2025 |
 | Arthur Nersesian         | Fuck up                                | papier | 07/11/2024 | 05/12/2024 |
 | Ernest Callenbach        | Ecotopia                               | papier | 03/01/2025 | 13/02/2025 |
+| Lars Mytting             | Les seize arbres de la Somme           | papier | 28/03/2025 | 08/04/2025 |
+| Philip Roth              | La tache                               | papier | 09/04/2025 |            |
 |--------------------------+----------------------------------------+--------+------------+------------|
 
 * Non terminés
