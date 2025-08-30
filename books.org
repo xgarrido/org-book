@@ -118,13 +118,14 @@
 | Roberto Saviano          | Piranhas                               | papier | 12/10/2018 | 22/10/2018 |
 | Roberto Saviano          | Baiser féroce                          | papier | 12/09/2019 | 10/11/2019 |
 | Roberto Saviano          | Crie-le !                              | papier | 12/01/2023 | 27/10/2023 |
+| Roberto Saviano          | Giovanni Falcone                       | mobi   | 18/07/2025 | 01/08/2025 |
 | Albert Camus             | L'étranger                             | mobi   | 10/07/2017 | 15/07/2017 |
 | Kamel Daoud              | Mersault, contre enquête               | mobi   | 15/07/2017 | 29/07/2017 |
 | Kamel Daoud              | Houris                                 | mobi   | 07/11/2024 | 24/12/2024 |
 | Harper Lee               | Ne tirez pas sur l'oiseau moqueur      | mobi   | 29/07/2017 | 11/08/2017 |
 | Stefan Zweig             | Le joueur d'échec                      | papier | 27/10/2017 | 28/10/2017 |
 | Olivier Guez             | La disparition de Josef Mengele        | papier | 02/02/2018 | 11/02/2018 |
-| Eric Vuillard            | L'ordre du jour                        | mobi   | 24/03/2018 | 28/03/2018 |
+| Eric Vuillard            | L'ordre du jour                        | papier | 24/03/2018 | 28/03/2018 |
 | Jonathan Littell         | Les bienvaillantes                     | papier | 28/03/2018 | 02/08/2018 |
 | Marc Dugain              | La chambre des officiers               | papier | 03/08/2018 | 07/08/2018 |
 | Marc Dugain              | Ils vont tuer Robert Kennedy           | mobi   | 30/03/2019 | 28/04/2019 |
@@ -185,7 +186,8 @@
 | Arthur Nersesian         | Fuck up                                | papier | 07/11/2024 | 05/12/2024 |
 | Ernest Callenbach        | Ecotopia                               | papier | 03/01/2025 | 13/02/2025 |
 | Lars Mytting             | Les seize arbres de la Somme           | papier | 28/03/2025 | 08/04/2025 |
-| Philip Roth              | La tache                               | papier | 09/04/2025 |            |
+| Philip Roth              | La tache                               | papier | 09/04/2025 | 27/08/2025 |
+| Maylis de Kerangal       | Réparer les vivants                    | papier | 27/08/2025 |            |
 |--------------------------+----------------------------------------+--------+------------+------------|
 
 * Non terminés
