@@ -189,7 +189,9 @@
 | Lars Mytting             | Les seize arbres de la Somme           | papier | 28/03/2025 | 08/04/2025 |
 | Philip Roth              | La tache                               | papier | 09/04/2025 | 27/08/2025 |
 | Maylis de Kerangal       | Réparer les vivants                    | papier | 27/08/2025 | 07/09/2025 |
-| Justine Augier           | Personne morale                        | mobi   | 22/09/2025 |            |
+| Justine Augier           | Personne morale                        | mobi   | 22/09/2025 | 29/09/2025 |
+| Javier Cercas            | Les soldats de Salamine                | papier | 02/09/2025 | 05/09/2025 |
+| Javier Cercas            | Le monarque des ombres                 | papier | 16/10/2025 |            |
 |--------------------------+----------------------------------------+--------+------------+------------|
 
 * Non terminés
