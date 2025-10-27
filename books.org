@@ -183,7 +183,7 @@
 | Aurélien Bellanger       | Les derniers jours du Parti socialiste | mobi   | 08/09/2024 | 23/09/2024 |
 | Aurélien Bellanger       | L'aménagement du territoire            | papier | 01/10/2024 | 27/10/2024 |
 | Aurélien Bellanger       | La théorie de l'information            | mobi   | 07/12/2024 | 02/01/2025 |
-| Aurélien Bellanger       | Le grand Paris                         | papier | 30/08/2025 |            |
+| Aurélien Bellanger       | Le grand Paris                         | papier | 30/08/2025 | 26/10/2025 |
 | Arthur Nersesian         | Fuck up                                | papier | 07/11/2024 | 05/12/2024 |
 | Ernest Callenbach        | Ecotopia                               | papier | 03/01/2025 | 13/02/2025 |
 | Lars Mytting             | Les seize arbres de la Somme           | papier | 28/03/2025 | 08/04/2025 |
@@ -191,7 +191,8 @@
 | Maylis de Kerangal       | Réparer les vivants                    | papier | 27/08/2025 | 07/09/2025 |
 | Justine Augier           | Personne morale                        | mobi   | 22/09/2025 | 29/09/2025 |
 | Javier Cercas            | Les soldats de Salamine                | papier | 02/09/2025 | 05/09/2025 |
-| Javier Cercas            | Le monarque des ombres                 | papier | 16/10/2025 |            |
+| Javier Cercas            | Le monarque des ombres                 | papier | 16/10/2025 | 22/10/2025 |
+| Javier Cercas            | L'imposteur                            | papier | 27/10/2025 |            |
 |--------------------------+----------------------------------------+--------+------------+------------|
 
 * Non terminés
