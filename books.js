@@ -71,14 +71,19 @@ var books = {
                     matches[3] == null || matches[4] == null) {
                     if (/Policier/.test(l)){
                         color = '#e74c3c';
+                        // color = '#C44E52';
                     } else if (/Société/.test(l)){
                         color = '#3399cc';
+                        // color = '#4C72B0';
                     } else if (/Science/.test(l)){
                         color = '#67ad00';
+                        // color = '#55A868';
                     } else if (/Roman/.test(l)){
                         color = '#f1c40f';
+                        // color = '#8172B3';
                     } else if (/Histoire/.test(l)){
                         color = '#e67e22';
+                        // color = '#DD8452';
                     } else if (/Non/.test(l)) {
                         topushed = false;
                     } else if (/À lire/.test(l)) {
