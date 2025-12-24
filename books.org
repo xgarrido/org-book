@@ -122,7 +122,7 @@
 | Albert Camus             | L'étranger                                      | mobi   | 10/07/2017 | 15/07/2017 |
 | Kamel Daoud              | Mersault, contre enquête                        | papier | 15/07/2017 | 29/07/2017 |
 | Kamel Daoud              | Houris                                          | mobi   | 07/11/2024 | 24/12/2024 |
-| Harper Lee               | Ne tirez pas sur l'oiseau moqueur               | mobi   | 29/07/2017 | 11/08/2017 |
+| Harper Lee               | Ne tirez pas sur l'oiseau moqueur               | papier | 29/07/2017 | 11/08/2017 |
 | Stefan Zweig             | Le joueur d'échec                               | papier | 27/10/2017 | 28/10/2017 |
 | Olivier Guez             | La disparition de Josef Mengele                 | papier | 02/02/2018 | 11/02/2018 |
 | Eric Vuillard            | L'ordre du jour                                 | papier | 24/03/2018 | 28/03/2018 |
@@ -180,6 +180,7 @@
 | Douglas Kennedy          | Et c'est ainsi que nous vivrons                 | papier | 08/06/2024 | 14/06/2024 |
 | Douglas Kennedy          | Combien ?                                       | papier | 14/02/2025 | 16/03/2025 |
 | Douglas Kennedy          | L'homme qui voulait vivre sa vie                | papier | 16/03/2025 | 24/03/2025 |
+| Douglas Kennedy          | Ailleurs chez moi                               | papier | 18/12/2025 | 24/12/2025 |
 | Tom Wolfe                | Un homme, un vrai                               | papier | 21/06/2024 | 28/07/2024 |
 | Aurélien Bellanger       | Les derniers jours du Parti socialiste          | papier | 08/09/2024 | 23/09/2024 |
 | Aurélien Bellanger       | L'aménagement du territoire                     | papier | 01/10/2024 | 27/10/2024 |
