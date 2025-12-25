@@ -196,6 +196,7 @@
 | Javier Cercas            | Le monarque des ombres                          | papier | 16/10/2025 | 22/10/2025 |
 | Javier Cercas            | L'imposteur                                     | papier | 27/10/2025 | 07/11/2025 |
 | Cormac Mc Carthy         | La route                                        | papier | 14/11/2025 | 05/12/2025 |
+| Benjamín Labatut         | Lumières aveugles                               | papier | 24/12/2025 |            |
 |--------------------------+-------------------------------------------------+--------+------------+------------|
 
 * Non terminés
