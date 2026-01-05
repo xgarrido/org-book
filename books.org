@@ -16,7 +16,7 @@
 | Fred Vargas       | Dans les bois éternels    | mobi   | 07/07/2015 | 28/07/2015 |
 | Fred Vargas       | L'armée furieuse          | mobi   | 14/09/2015 | 07/10/2015 |
 | Fred Vargas       | Temps glaciaire           | papier | 07/10/2015 | 18/10/2015 |
-| Fred Vargas       | Quand sort la recluse     | mobi   | 18/08/2017 | 26/08/2017 |
+| Fred Vargas       | Quand sort la recluse     | papier | 18/08/2017 | 26/08/2017 |
 | Fred Vargas       | Sur la dalle              | papier | 22/05/2023 | 31/05/2023 |
 | Stieg Larsson     | Millenium 1               | papier | 19/10/2015 | 06/11/2015 |
 | Stieg Larsson     | Millenium 2               | papier | 06/11/2015 | 06/12/2015 |
@@ -139,6 +139,7 @@
 | Marc Dugain              | Tsunami                                         | mobi   | 24/04/2023 | 27/04/2023 |
 | Marc Dugain              | La volonté                                      | papier | 27/04/2023 | 09/05/2023 |
 | Marc Dugain              | La malédiction d'Edgar                          | papier | 05/12/2025 | 13/12/2025 |
+| Marc Dugain              | Légitime violence                               | mobi   | 05/12/2025 |            |
 | Umberto Eco              | Le nom de la rose                               | mobi   | 07/08/2018 | 12/10/2018 |
 | Arturo Perez-Reverte     | Falco                                           | papier | 26/01/2019 | 18/02/2019 |
 | John Steinbeck           | Les raisins de la colère                        | mobi   | 13/10/2018 | 20/02/2019 |
