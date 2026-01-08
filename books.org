@@ -7,199 +7,199 @@
 
 * Policier
 
-|-------------------+---------------------------+--------+------------+------------|
-| Auteur            | Titre                     | Format | Start      | Stop       |
-|-------------------+---------------------------+--------+------------+------------|
-| Fred Vargas       | L'homme aux cercles bleus | papier | 30/07/2014 | 07/08/2014 |
-| Fred Vargas       | L'homme à l'envers        | mobi   | 08/08/2014 | 20/08/2014 |
-| Fred Vargas       | Pars vite et reviens tard | papier | 28/08/2014 | 11/09/2014 |
-| Fred Vargas       | Dans les bois éternels    | mobi   | 07/07/2015 | 28/07/2015 |
-| Fred Vargas       | L'armée furieuse          | mobi   | 14/09/2015 | 07/10/2015 |
-| Fred Vargas       | Temps glaciaire           | papier | 07/10/2015 | 18/10/2015 |
-| Fred Vargas       | Quand sort la recluse     | papier | 18/08/2017 | 26/08/2017 |
-| Fred Vargas       | Sur la dalle              | papier | 22/05/2023 | 31/05/2023 |
-| Stieg Larsson     | Millenium 1               | papier | 19/10/2015 | 06/11/2015 |
-| Stieg Larsson     | Millenium 2               | papier | 06/11/2015 | 06/12/2015 |
-| Stieg Larsson     | Millenium 3               | papier | 06/12/2015 | 05/01/2016 |
-| David Lagercrantz | Millenium 4               | papier | 08/03/2016 | 06/04/2016 |
-| David Lagercrantz | Millenium 5               | papier | 11/02/2018 | 23/02/2018 |
-| David Lagercrantz | Millenium 6               | papier | 29/08/2019 | 07/09/2019 |
-| Marc Fernandez    | Mala vida                 | papier | 09/01/2020 | 26/01/2020 |
-| Nils Barrellon    | Le neutrino de Majorana   | papier | 05/11/2023 | 23/12/2023 |
-|-------------------+---------------------------+--------+------------+------------|
+|-------------------+---------------------------+--------+------------+------------+-----------|
+| Auteur            | Titre                     | Format | Start      | Stop       | Nbr pages |
+|-------------------+---------------------------+--------+------------+------------+-----------|
+| Fred Vargas       | L'homme aux cercles bleus | papier | 30/07/2014 | 07/08/2014 |       239 |
+| Fred Vargas       | L'homme à l'envers        | mobi   | 08/08/2014 | 20/08/2014 |       300 |
+| Fred Vargas       | Pars vite et reviens tard | papier | 28/08/2014 | 11/09/2014 |       346 |
+| Fred Vargas       | Dans les bois éternels    | mobi   | 07/07/2015 | 28/07/2015 |       442 |
+| Fred Vargas       | L'armée furieuse          | mobi   | 14/09/2015 | 07/10/2015 |       426 |
+| Fred Vargas       | Temps glaciaire           | papier | 07/10/2015 | 18/10/2015 |       497 |
+| Fred Vargas       | Quand sort la recluse     | papier | 18/08/2017 | 26/08/2017 |       478 |
+| Fred Vargas       | Sur la dalle              | papier | 22/05/2023 | 31/05/2023 |       520 |
+| Stieg Larsson     | Millenium 1               | papier | 19/10/2015 | 06/11/2015 |       574 |
+| Stieg Larsson     | Millenium 2               | papier | 06/11/2015 | 06/12/2015 |       652 |
+| Stieg Larsson     | Millenium 3               | papier | 06/12/2015 | 05/01/2016 |       711 |
+| David Lagercrantz | Millenium 4               | papier | 08/03/2016 | 06/04/2016 |       496 |
+| David Lagercrantz | Millenium 5               | papier | 11/02/2018 | 23/02/2018 |       448 |
+| David Lagercrantz | Millenium 6               | papier | 29/08/2019 | 07/09/2019 |       366 |
+| Marc Fernandez    | Mala vida                 | papier | 09/01/2020 | 26/01/2020 |       288 |
+| Nils Barrellon    | Le neutrino de Majorana   | papier | 05/11/2023 | 23/12/2023 |       296 |
+|-------------------+---------------------------+--------+------------+------------+-----------|
 
 * Société
 
-|--------------------+---------------------------------+--------+------------+------------|
-| Auteur             | Titre                           | Format | Start      | Stop       |
-|--------------------+---------------------------------+--------+------------+------------|
-| Michel Onfray      | Traité d'athéologie             | mobi   | 14/11/2014 | 04/01/2015 |
-| Yannick Roudault   | La nouvelle controverse         | papier | 19/12/2014 | 22/02/2015 |
-| Marc Trévidic      | Terroristes                     | mobi   | 11/12/2015 | 16/12/2015 |
-| Gilles Kepel       | Terreur dans l'Hexagone         | mobi   | 20/12/2015 | 12/01/2016 |
-| Gilles Kepel       | La laïcité contre la fracture ? | papier | 26/02/2018 | 26/02/2018 |
-| Raphaël Glucksmann | Les enfants du vide             | papier | 12/01/2019 | 26/01/2019 |
-| Laurent Fabius     | Rouge carbone                   | papier | 16/03/2021 | 24/03/2021 |
-| Giuliano da Empoli | Les ingénieurs du chaos         | papier | 28/07/2024 | 31/07/2024 |
-| Giuliano da Empoli | L'heure des prédateurs          | mobi   | 15/07/2025 | 18/07/2025 |
-| Agnès Levallois    | Le livre noir de Gaza           | papier | 25/12/2024 | 26/01/2025 |
-| Emmanuel Todd      | Qui est Charlie ?               | papier | 25/03/2025 | 01/06/2025 |
-| Salomé Sacqué      | Résister                        | papier | 01/07/2025 | 08/07/2025 |
-|--------------------+---------------------------------+--------+------------+------------|
+|--------------------+---------------------------------+--------+------------+------------+-----------|
+| Auteur             | Titre                           | Format | Start      | Stop       | Nbr pages |
+|--------------------+---------------------------------+--------+------------+------------+-----------|
+| Michel Onfray      | Traité d'athéologie             | mobi   | 14/11/2014 | 04/01/2015 |       315 |
+| Yannick Roudault   | La nouvelle controverse         | papier | 19/12/2014 | 22/02/2015 |           |
+| Marc Trévidic      | Terroristes                     | mobi   | 11/12/2015 | 16/12/2015 |       220 |
+| Gilles Kepel       | Terreur dans l'Hexagone         | mobi   | 20/12/2015 | 12/01/2016 |           |
+| Gilles Kepel       | La laïcité contre la fracture ? | papier | 26/02/2018 | 26/02/2018 |           |
+| Raphaël Glucksmann | Les enfants du vide             | papier | 12/01/2019 | 26/01/2019 |       224 |
+| Laurent Fabius     | Rouge carbone                   | papier | 16/03/2021 | 24/03/2021 |       256 |
+| Giuliano da Empoli | Les ingénieurs du chaos         | papier | 28/07/2024 | 31/07/2024 |       240 |
+| Giuliano da Empoli | L'heure des prédateurs          | mobi   | 15/07/2025 | 18/07/2025 |       152 |
+| Agnès Levallois    | Le livre noir de Gaza           | papier | 25/12/2024 | 26/01/2025 |       272 |
+| Emmanuel Todd      | Qui est Charlie ?               | papier | 25/03/2025 | 01/06/2025 |       252 |
+| Salomé Sacqué      | Résister                        | papier | 01/07/2025 | 08/07/2025 |       144 |
+|--------------------+---------------------------------+--------+------------+------------+-----------|
 
 * Histoire
 
-|-------------------------------------+-------------------------+--------+------------+------------|
-| Auteur                              | Titre                   | Format | Start      | Stop       |
-|-------------------------------------+-------------------------+--------+------------+------------|
-| Stefan Zweig                        | Magellan                | mobi   | 04/09/2017 | 13/09/2017 |
-| Stefan Zweig                        | Joseph Fouché           | mobi   | 13/09/2017 | 26/09/2017 |
-| Stefan Zweig                        | Marie-Antoinette        | mobi   | 26/09/2017 | 27/10/2017 |
-| Stefan Zweig                        | Marie Stuart            | mobi   | 27/02/2018 | 24/03/2018 |
-| Svetlana Aleksievitch               | La fin de l'homme rouge | mobi   | 15/02/2020 | 09/08/2020 |
-| Svetlana Aleksievitch               | Les cercueils de zinc   | papier | 15/05/2021 | 20/10/2021 |
-| Jean-Pierre Azéma & Michel Winock   | Les communards          | papier | 07/05/2021 | 10/05/2021 |
-| Michelle Audin                      | La semaine sanglante    | papier | 10/05/2021 | 15/05/2021 |
-| Alexandre Soljenitsyne              | L'archipel du goulag    | papier | 15/06/2024 |            |
-| Johann Chapoutot & Christian Ingrao | Hitler                  | papier | 04/09/2024 | 07/09/2024 |
-| Bruno Patino                        | Rire avec le diable     | papier | 25/10/2024 | 25/10/2024 |
-|-------------------------------------+-------------------------+--------+------------+------------|
+|-------------------------------------+-------------------------+--------+------------+------------+-----------|
+| Auteur                              | Titre                   | Format | Start      | Stop       | Nbr pages |
+|-------------------------------------+-------------------------+--------+------------+------------+-----------|
+| Stefan Zweig                        | Magellan                | mobi   | 04/09/2017 | 13/09/2017 |       320 |
+| Stefan Zweig                        | Joseph Fouché           | mobi   | 13/09/2017 | 26/09/2017 |       304 |
+| Stefan Zweig                        | Marie-Antoinette        | mobi   | 26/09/2017 | 27/10/2017 |           |
+| Stefan Zweig                        | Marie Stuart            | mobi   | 27/02/2018 | 24/03/2018 |       480 |
+| Svetlana Aleksievitch               | La fin de l'homme rouge | mobi   | 15/02/2020 | 09/08/2020 |       544 |
+| Svetlana Aleksievitch               | Les cercueils de zinc   | papier | 15/05/2021 | 20/10/2021 |       269 |
+| Jean-Pierre Azéma & Michel Winock   | Les communards          | papier | 07/05/2021 | 10/05/2021 |       224 |
+| Michelle Audin                      | La semaine sanglante    | papier | 10/05/2021 | 15/05/2021 |       261 |
+| Alexandre Soljenitsyne              | L'archipel du goulag    | papier | 15/06/2024 |            |           |
+| Johann Chapoutot & Christian Ingrao | Hitler                  | papier | 04/09/2024 | 07/09/2024 |       224 |
+| Bruno Patino                        | Rire avec le diable     | papier | 25/10/2024 | 25/10/2024 |       124 |
+|-------------------------------------+-------------------------+--------+------------+------------+-----------|
 
 * Science
 
-|---------------------------------------+--------------------------------------------+--------+------------+------------|
-| Auteur                                | Titre                                      | Format | Start      | Stop       |
-|---------------------------------------+--------------------------------------------+--------+------------+------------|
-| Etienne Klein                         | Il était sept fois la révolution           | mobi   | 06/08/2014 | 13/08/2014 |
-| Brian Greene                          | La réalité cachée                          | mobi   | 20/08/2014 | 17/03/2015 |
-| John Barrow                           | Le livres des univers                      | mobi   | 16/03/2015 | 17/06/2015 |
-| Lawrence M. Krauss                    | La physique de Star Trek                   | mobi   | 18/06/2015 | 08/09/2015 |
-| Stephen W. Hawking                    | Une brève histoire du temps                | mobi   | 18/06/2015 | 07/07/2015 |
-| Michel Davier                         | LHC: le boson de Higgs                     | papier | 01/07/2015 | 05/08/2015 |
-| Etienne Klein                         | Le monde selon Etienne Klein               | papier | 10/08/2015 | 22/08/2015 |
-| Etienne Klein                         | Discours sur l'origine du monde            | papier | 22/08/2015 | 29/08/2015 |
-| Etienne Klein                         | Conversations avec le sphinx               | mobi   | 18/09/2016 | 04/10/2016 |
-| Gilles Cohen-Tannoudji & Michel Spiro | Le boson et le chapeau mexicain            | papier | 29/08/2015 | 13/11/2016 |
-| Yuval Noah Harari                     | Sapiens : Une brève histoire de l'humanité | mobi   | 25/11/2016 | 14/06/2017 |
-| Antoine Letessier Selvon              | Kosmos, l'épopée des particules            | papier | 05/01/2019 | 11/01/2019 |
-| Frank Close                           | Le mystère Pontecorvo                      | papier | 07/07/2022 | 05/08/2022 |
-| Giorgio Parisi                        | Comme un vol d'étourneaux                  | papier | 10/05/2025 | 20/05/2025 |
-|---------------------------------------+--------------------------------------------+--------+------------+------------|
+|---------------------------------------+--------------------------------------------+--------+------------+------------+-----------|
+| Auteur                                | Titre                                      | Format | Start      | Stop       | Nbr pages |
+|---------------------------------------+--------------------------------------------+--------+------------+------------+-----------|
+| Etienne Klein                         | Il était sept fois la révolution           | mobi   | 06/08/2014 | 13/08/2014 |       237 |
+| Brian Greene                          | La réalité cachée                          | mobi   | 20/08/2014 | 17/03/2015 |       512 |
+| John Barrow                           | Le livres des univers                      | mobi   | 16/03/2015 | 17/06/2015 |       368 |
+| Lawrence M. Krauss                    | La physique de Star Trek                   | mobi   | 18/06/2015 | 08/09/2015 |       234 |
+| Stephen W. Hawking                    | Une brève histoire du temps                | mobi   | 18/06/2015 | 07/07/2015 |       276 |
+| Michel Davier                         | LHC: le boson de Higgs                     | papier | 01/07/2015 | 05/08/2015 |       400 |
+| Etienne Klein                         | Le monde selon Etienne Klein               | papier | 10/08/2015 | 22/08/2015 |       336 |
+| Etienne Klein                         | Discours sur l'origine de l'univers        | papier | 22/08/2015 | 29/08/2015 |       181 |
+| Etienne Klein                         | Conversations avec le sphinx               | mobi   | 18/09/2016 | 04/10/2016 |       191 |
+| Gilles Cohen-Tannoudji & Michel Spiro | Le boson et le chapeau mexicain            | papier | 29/08/2015 | 13/11/2016 |       544 |
+| Yuval Noah Harari                     | Sapiens : Une brève histoire de l'humanité | mobi   | 25/11/2016 | 14/06/2017 |       450 |
+| Antoine Letessier Selvon              | Kosmos, l'épopée des particules            | papier | 05/01/2019 | 11/01/2019 |       150 |
+| Frank Close                           | Le mystère Pontecorvo                      | papier | 07/07/2022 | 05/08/2022 |       455 |
+| Giorgio Parisi                        | Comme un vol d'étourneaux                  | papier | 10/05/2025 | 20/05/2025 |       208 |
+|---------------------------------------+--------------------------------------------+--------+------------+------------+-----------|
 
 * Roman
 
-|--------------------------+-------------------------------------------------+--------+------------+------------|
-| Auteur                   | Titre                                           | Format | Start      | Stop       |
-|--------------------------+-------------------------------------------------+--------+------------+------------|
-| Emmanuel Carrere         | Le royaume                                      | mobi   | 11/09/2014 | 21/02/2015 |
-| Lydie Salvayre           | Pas pleurer                                     | mobi   | 09/01/2015 | 24/01/2015 |
-| Michel Houellebecq       | Plateforme                                      | mobi   | 06/03/2015 | 06/04/2015 |
-| Michel Houellebecq       | La carte et le territoire                       | mobi   | 07/04/2015 | 23/04/2015 |
-| Michel Houellebecq       | Soumission                                      | papier | 03/09/2016 | 16/09/2016 |
-| Michel Houellebecq       | Sérotonine                                      | mobi   | 28/04/2019 | 10/05/2019 |
-| Michel Houellebecq       | Anéantir                                        | papier | 21/01/2022 | 10/02/2022 |
-| Haruki Marukami          | Des hommes sans femmes                          | mobi   | 10/05/2019 | 27/06/2019 |
-| Jérôme Ferrari           | Le principe                                     | papier | 22/03/2015 | 29/03/2015 |
-| Jérôme Ferrari           | Le sermon sur la chute de Rome                  | papier | 02/11/2024 | 07/11/2024 |
-| Ernest Hemingway         | Paris est une fête                              | mobi   | 18/12/2015 | 26/12/2015 |
-| Boualem Sansal           | 2084                                            | mobi   | 09/02/2016 | 07/03/2016 |
-| Laurent Seksik           | Le cas Eduard Einstein                          | papier | 15/07/2016 | 25/07/2016 |
-| Laurent Seksik           | Les derniers jours de Stefan Zweig              | mobi   | 16/10/2016 | 08/11/2016 |
-| Laurent Seksik           | Romain Gary s'en va-t-en guerre                 | mobi   | 18/11/2020 | 21/12/2020 |
-| Elie Wiesel              | La nuit                                         | papier | 04/10/2016 | 10/10/2016 |
-| David Foenkinos          | Charlotte                                       | papier | 10/10/2016 | 16/10/2016 |
-| Jacques Mesrine          | L'instinct de mort                              | mobi   | 08/11/2016 | 25/11/2016 |
-| Mathias Enard            | Boussole                                        | papier | 25/11/2016 | 24/05/2017 |
-| Mathias Enard            | Parle-leur de batailles, de rois et d'éléphants | papier | 14/12/2025 | 17/12/2025 |
-| Georges Orwell           | Hommage à la Catalogne                          | papier | 18/06/2017 | 18/03/2018 |
-| Georges Orwell           | 1984                                            | mobi   | 28/10/2017 | 16/01/2018 |
-| Georges Orwell           | La ferme des animaux                            | papier | 13/02/2021 | 15/02/2021 |
-| Roberto Saviano          | Gomorra                                         | papier | 21/06/2017 | 09/07/2017 |
-| Roberto Saviano          | Piranhas                                        | papier | 12/10/2018 | 22/10/2018 |
-| Roberto Saviano          | Baiser féroce                                   | papier | 12/09/2019 | 10/11/2019 |
-| Roberto Saviano          | Crie-le !                                       | papier | 12/01/2023 | 27/10/2023 |
-| Roberto Saviano          | Giovanni Falcone                                | mobi   | 18/07/2025 | 01/08/2025 |
-| Albert Camus             | L'étranger                                      | mobi   | 10/07/2017 | 15/07/2017 |
-| Kamel Daoud              | Mersault, contre enquête                        | papier | 15/07/2017 | 29/07/2017 |
-| Kamel Daoud              | Houris                                          | mobi   | 07/11/2024 | 24/12/2024 |
-| Harper Lee               | Ne tirez pas sur l'oiseau moqueur               | papier | 29/07/2017 | 11/08/2017 |
-| Stefan Zweig             | Le joueur d'échec                               | papier | 27/10/2017 | 28/10/2017 |
-| Olivier Guez             | La disparition de Josef Mengele                 | papier | 02/02/2018 | 11/02/2018 |
-| Eric Vuillard            | L'ordre du jour                                 | papier | 24/03/2018 | 28/03/2018 |
-| Jonathan Littell         | Les bienvaillantes                              | papier | 28/03/2018 | 02/08/2018 |
-| Marc Dugain              | La chambre des officiers                        | papier | 03/08/2018 | 07/08/2018 |
-| Marc Dugain              | Ils vont tuer Robert Kennedy                    | mobi   | 30/03/2019 | 28/04/2019 |
-| Marc Dugain              | Transparence                                    | papier | 27/06/2019 | 02/07/2019 |
-| Marc Dugain              | Avenue des Géants                               | papier | 18/12/2021 | 04/01/2022 |
-| Marc Dugain              | Une exécution ordinaire                         | mobi   | 10/02/2022 | 04/03/2022 |
-| Marc Dugain              | L'emprise                                       | papier | 29/04/2022 | 11/05/2022 |
-| Marc Dugain              | Quinquennat                                     | papier | 14/05/2022 | 28/05/2022 |
-| Marc Dugain              | Ultime partie                                   | papier | 28/05/2022 | 05/06/2022 |
-| Marc Dugain              | Paysages trompeurs                              | mobi   | 23/04/2023 | 24/04/2023 |
-| Marc Dugain              | Tsunami                                         | mobi   | 24/04/2023 | 27/04/2023 |
-| Marc Dugain              | La volonté                                      | papier | 27/04/2023 | 09/05/2023 |
-| Marc Dugain              | La malédiction d'Edgar                          | papier | 05/12/2025 | 13/12/2025 |
-| Marc Dugain              | Légitime violence                               | mobi   | 05/12/2025 |            |
-| Umberto Eco              | Le nom de la rose                               | mobi   | 07/08/2018 | 12/10/2018 |
-| Arturo Perez-Reverte     | Falco                                           | papier | 26/01/2019 | 18/02/2019 |
-| John Steinbeck           | Les raisins de la colère                        | mobi   | 13/10/2018 | 20/02/2019 |
-| Pierre Lemaitre          | Cadres noirs                                    | papier | 24/02/2019 | 11/03/2019 |
-| Pierre Lemaitre          | Au revoir là-haut                               | papier | 04/07/2020 | 22/07/2020 |
-| Pierre Lemaitre          | Couleurs de l'incendie                          | papier | 19/09/2020 | 30/09/2020 |
-| Pierre Lemaitre          | Miroir de nos peines                            | papier | 01/10/2020 | 17/10/2020 |
-| Pierre Lemaitre          | Trois nuits et une vie                          | papier | 12/07/2021 | 17/07/2021 |
-| Pierre Lemaitre          | Le grand monde                                  | papier | 07/03/2022 | 17/04/2022 |
-| Pierre Lemaitre          | Le silence et la colère                         | papier | 18/04/2023 | 23/04/2023 |
-| Pierre Lemaitre          | Un avenir radieux                               | papier | 26/01/2025 | 07/02/2025 |
-| Pierre Lemaitre          | Le serpent majuscule                            | papier | 24/06/2023 | 08/07/2023 |
-| Philippe Lançon          | Le lambeau                                      | papier | 02/07/2019 | 22/01/2020 |
-| Virginie Despentes       | Vernon Subutex T1                               | papier | 13/07/2019 | 30/07/2019 |
-| Virginie Despentes       | Vernon Subutex T2                               | papier | 30/07/2019 | 09/08/2019 |
-| Virginie Despentes       | Vernon Subutex T3                               | papier | 09/08/2019 | 19/08/2019 |
-| Virginie Despentes       | Apocalypse bébé                                 | papier | 05/06/2022 | 14/06/2022 |
-| Virginie Despentes       | King Kong theory                                | papier | 14/06/2022 | 30/06/2022 |
-| Virginie Despentes       | Cher connard                                    | papier | 22/10/2022 | 30/04/2023 |
-| Virginie Despentes       | Baise-moi                                       | mobi   | 22/05/2023 | 11/06/2023 |
-| Bruno Tessarech          | Les sentinelles                                 | papier | 22/01/2020 | 23/02/2020 |
-| Chimamanda Ngozi Adichie | Americanah                                      | mobi   | 22/01/2020 | 18/09/2020 |
-| Edward Snowden           | Mémoires vives                                  | mobi   | 17/10/2020 | 15/11/2020 |
-| Hervé Le Tellier         | L'anomalie                                      | papier | 21/12/2020 | 25/12/2020 |
-| Hervé Le Tellier         | Moi et François Mitterand                       | mobi   | 29/12/2020 | 29/12/2020 |
-| Fernando Arumburu        | Patria                                          | papier | 29/12/2020 | 10/02/2021 |
-| Florence Aubenas         | L'inconnu de la poste                           | papier | 18/02/2021 | 26/02/2021 |
-| Patrick Süskind          | Le parfum                                       | mobi   | 26/02/2021 | 12/03/2021 |
-| Camille Kouchner         | La familia grande                               | papier | 14/03/2021 | 16/03/2021 |
-| Ahmadou Kourouma         | Allah n'est pas obligé                          | mobi   | 17/03/2021 | 04/12/2021 |
-| Ariel Magnus             | Eichmann à Buenos Aires                         | papier | 09/10/2021 | 18/12/2021 |
-| Abel Quentin             | Le voyant d'Etampes                             | papier | 05/01/2022 | 19/01/2022 |
-| Abel Quentin             | Cabane                                          | papier | 23/09/2024 | 01/10/2024 |
-| Giuliano da Empoli       | Le mage du Kremlin                              | papier | 10/05/2023 | 17/05/2023 |
-| Gabriel Garcia Marquez   | Cent ans de solitude                            | papier | 18/09/2023 | 05/11/2023 |
-| Gabriel Garcia Marquez   | L'amour au temps du choléra                     | papier | 25/01/2024 | 18/05/2024 |
-| Loretto Urraca Luque     | Comme des hyènes                                | papier | 23/12/2023 | 25/01/2024 |
-| Douglas Kennedy          | Les hommes ont peur de la lumière               | papier | 22/05/2024 | 25/05/2024 |
-| Douglas Kennedy          | Et c'est ainsi que nous vivrons                 | papier | 08/06/2024 | 14/06/2024 |
-| Douglas Kennedy          | Combien ?                                       | papier | 14/02/2025 | 16/03/2025 |
-| Douglas Kennedy          | L'homme qui voulait vivre sa vie                | papier | 16/03/2025 | 24/03/2025 |
-| Douglas Kennedy          | Ailleurs chez moi                               | papier | 18/12/2025 | 24/12/2025 |
-| Tom Wolfe                | Un homme, un vrai                               | papier | 21/06/2024 | 28/07/2024 |
-| Aurélien Bellanger       | Les derniers jours du Parti socialiste          | papier | 08/09/2024 | 23/09/2024 |
-| Aurélien Bellanger       | L'aménagement du territoire                     | papier | 01/10/2024 | 27/10/2024 |
-| Aurélien Bellanger       | La théorie de l'information                     | mobi   | 07/12/2024 | 02/01/2025 |
-| Aurélien Bellanger       | Le grand Paris                                  | papier | 30/08/2025 | 26/10/2025 |
-| Arthur Nersesian         | Fuck up                                         | papier | 07/11/2024 | 05/12/2024 |
-| Ernest Callenbach        | Ecotopia                                        | papier | 03/01/2025 | 13/02/2025 |
-| Lars Mytting             | Les seize arbres de la Somme                    | papier | 28/03/2025 | 08/04/2025 |
-| Philip Roth              | La tache                                        | papier | 09/04/2025 | 27/08/2025 |
-| Maylis de Kerangal       | Réparer les vivants                             | papier | 27/08/2025 | 07/09/2025 |
-| Justine Augier           | Personne morale                                 | mobi   | 22/09/2025 | 29/09/2025 |
-| Javier Cercas            | Les soldats de Salamine                         | papier | 02/09/2025 | 05/09/2025 |
-| Javier Cercas            | Le monarque des ombres                          | papier | 16/10/2025 | 22/10/2025 |
-| Javier Cercas            | L'imposteur                                     | papier | 27/10/2025 | 07/11/2025 |
-| Javier Cercas            | Anatomie d'un instant                           | papier | 30/12/2025 |            |
-| Cormac Mc Carthy         | La route                                        | papier | 14/11/2025 | 05/12/2025 |
-| Benjamín Labatut         | Lumières aveugles                               | papier | 24/12/2025 | 30/12/2025 |
-|--------------------------+-------------------------------------------------+--------+------------+------------|
+|--------------------------+-------------------------------------------------+--------+------------+------------+-----------|
+| Auteur                   | Titre                                           | Format | Start      | Stop       | Nbr pages |
+|--------------------------+-------------------------------------------------+--------+------------+------------+-----------|
+| Emmanuel Carrere         | Le royaume                                      | mobi   | 11/09/2014 | 21/02/2015 |       640 |
+| Lydie Salvayre           | Pas pleurer                                     | mobi   | 09/01/2015 | 24/01/2015 |       288 |
+| Michel Houellebecq       | Plateforme                                      | mobi   | 06/03/2015 | 06/04/2015 |       350 |
+| Michel Houellebecq       | La carte et le territoire                       | mobi   | 07/04/2015 | 23/04/2015 |       450 |
+| Michel Houellebecq       | Soumission                                      | papier | 03/09/2016 | 16/09/2016 |       320 |
+| Michel Houellebecq       | Sérotonine                                      | mobi   | 28/04/2019 | 10/05/2019 |       347 |
+| Michel Houellebecq       | Anéantir                                        | papier | 21/01/2022 | 10/02/2022 |       896 |
+| Haruki Marukami          | Des hommes sans femmes                          | mobi   | 10/05/2019 | 27/06/2019 |       304 |
+| Jérôme Ferrari           | Le principe                                     | papier | 22/03/2015 | 29/03/2015 |       176 |
+| Jérôme Ferrari           | Le sermon sur la chute de Rome                  | papier | 02/11/2024 | 07/11/2024 |       208 |
+| Ernest Hemingway         | Paris est une fête                              | mobi   | 18/12/2015 | 26/12/2015 |       240 |
+| Boualem Sansal           | 2084                                            | mobi   | 09/02/2016 | 07/03/2016 |       288 |
+| Laurent Seksik           | Le cas Eduard Einstein                          | papier | 15/07/2016 | 25/07/2016 |       304 |
+| Laurent Seksik           | Les derniers jours de Stefan Zweig              | mobi   | 16/10/2016 | 08/11/2016 |       192 |
+| Laurent Seksik           | Romain Gary s'en va-t-en guerre                 | mobi   | 18/11/2020 | 21/12/2020 |       240 |
+| Elie Wiesel              | La nuit                                         | papier | 04/10/2016 | 10/10/2016 |       199 |
+| David Foenkinos          | Charlotte                                       | papier | 10/10/2016 | 16/10/2016 |       256 |
+| Jacques Mesrine          | L'instinct de mort                              | mobi   | 08/11/2016 | 25/11/2016 |       391 |
+| Mathias Enard            | Boussole                                        | papier | 25/11/2016 | 24/05/2017 |       480 |
+| Mathias Enard            | Parle-leur de batailles, de rois et d'éléphants | papier | 14/12/2025 | 17/12/2025 |       153 |
+| Georges Orwell           | Hommage à la Catalogne                          | papier | 18/06/2017 | 18/03/2018 |       293 |
+| Georges Orwell           | 1984                                            | mobi   | 28/10/2017 | 16/01/2018 |       438 |
+| Georges Orwell           | La ferme des animaux                            | papier | 13/02/2021 | 15/02/2021 |       224 |
+| Roberto Saviano          | Gomorra                                         | papier | 21/06/2017 | 09/07/2017 |       480 |
+| Roberto Saviano          | Piranhas                                        | papier | 12/10/2018 | 22/10/2018 |       368 |
+| Roberto Saviano          | Baiser féroce                                   | papier | 12/09/2019 | 10/11/2019 |       400 |
+| Roberto Saviano          | Crie-le !                                       | papier | 12/01/2023 | 27/10/2023 |       624 |
+| Roberto Saviano          | Giovanni Falcone                                | mobi   | 18/07/2025 | 01/08/2025 |       608 |
+| Albert Camus             | L'étranger                                      | mobi   | 10/07/2017 | 15/07/2017 |       186 |
+| Kamel Daoud              | Mersault, contre enquête                        | papier | 15/07/2017 | 29/07/2017 |       152 |
+| Kamel Daoud              | Houris                                          | mobi   | 07/11/2024 | 24/12/2024 |       416 |
+| Harper Lee               | Ne tirez pas sur l'oiseau moqueur               | papier | 29/07/2017 | 11/08/2017 |       448 |
+| Stefan Zweig             | Le joueur d'échec                               | papier | 27/10/2017 | 28/10/2017 |        94 |
+| Olivier Guez             | La disparition de Josef Mengele                 | papier | 02/02/2018 | 11/02/2018 |       256 |
+| Eric Vuillard            | L'ordre du jour                                 | papier | 24/03/2018 | 28/03/2018 |       160 |
+| Jonathan Littell         | Les bienvaillantes                              | papier | 28/03/2018 | 02/08/2018 |       904 |
+| Marc Dugain              | La chambre des officiers                        | papier | 03/08/2018 | 07/08/2018 |       171 |
+| Marc Dugain              | Ils vont tuer Robert Kennedy                    | mobi   | 30/03/2019 | 28/04/2019 |       400 |
+| Marc Dugain              | Transparence                                    | papier | 27/06/2019 | 02/07/2019 |       224 |
+| Marc Dugain              | Avenue des Géants                               | papier | 18/12/2021 | 04/01/2022 |       368 |
+| Marc Dugain              | Une exécution ordinaire                         | mobi   | 10/02/2022 | 04/03/2022 |       528 |
+| Marc Dugain              | L'emprise                                       | papier | 29/04/2022 | 11/05/2022 |       320 |
+| Marc Dugain              | Quinquennat                                     | papier | 14/05/2022 | 28/05/2022 |       304 |
+| Marc Dugain              | Ultime partie                                   | papier | 28/05/2022 | 05/06/2022 |       304 |
+| Marc Dugain              | Paysages trompeurs                              | mobi   | 23/04/2023 | 24/04/2023 |       240 |
+| Marc Dugain              | Tsunami                                         | mobi   | 24/04/2023 | 27/04/2023 |       272 |
+| Marc Dugain              | La volonté                                      | papier | 27/04/2023 | 09/05/2023 |       288 |
+| Marc Dugain              | La malédiction d'Edgar                          | papier | 05/12/2025 | 13/12/2025 |       512 |
+| Marc Dugain              | Légitime violence                               | mobi   | 05/12/2025 |            |       256 |
+| Umberto Eco              | Le nom de la rose                               | mobi   | 07/08/2018 | 12/10/2018 |       608 |
+| Arturo Perez-Reverte     | Falco                                           | papier | 26/01/2019 | 18/02/2019 |       296 |
+| John Steinbeck           | Les raisins de la colère                        | mobi   | 13/10/2018 | 20/02/2019 |       640 |
+| Pierre Lemaitre          | Cadres noirs                                    | papier | 24/02/2019 | 11/03/2019 |       448 |
+| Pierre Lemaitre          | Au revoir là-haut                               | papier | 04/07/2020 | 22/07/2020 |       624 |
+| Pierre Lemaitre          | Couleurs de l'incendie                          | papier | 19/09/2020 | 30/09/2020 |       672 |
+| Pierre Lemaitre          | Miroir de nos peines                            | papier | 01/10/2020 | 17/10/2020 |       544 |
+| Pierre Lemaitre          | Trois nuits et une vie                          | papier | 12/07/2021 | 17/07/2021 |       288 |
+| Pierre Lemaitre          | Le grand monde                                  | papier | 07/03/2022 | 17/04/2022 |       768 |
+| Pierre Lemaitre          | Le silence et la colère                         | papier | 18/04/2023 | 23/04/2023 |       768 |
+| Pierre Lemaitre          | Un avenir radieux                               | papier | 26/01/2025 | 07/02/2025 |       592 |
+| Pierre Lemaitre          | Le serpent majuscule                            | papier | 24/06/2023 | 08/07/2023 |       312 |
+| Philippe Lançon          | Le lambeau                                      | papier | 02/07/2019 | 22/01/2020 |       512 |
+| Virginie Despentes       | Vernon Subutex T1                               | papier | 13/07/2019 | 30/07/2019 |       365 |
+| Virginie Despentes       | Vernon Subutex T2                               | papier | 30/07/2019 | 09/08/2019 |       408 |
+| Virginie Despentes       | Vernon Subutex T3                               | papier | 09/08/2019 | 19/08/2019 |       400 |
+| Virginie Despentes       | Apocalypse bébé                                 | papier | 05/06/2022 | 14/06/2022 |       352 |
+| Virginie Despentes       | King Kong theory                                | papier | 14/06/2022 | 30/06/2022 |       160 |
+| Virginie Despentes       | Cher connard                                    | papier | 22/10/2022 | 30/04/2023 |       352 |
+| Virginie Despentes       | Baise-moi                                       | mobi   | 22/05/2023 | 11/06/2023 |       248 |
+| Bruno Tessarech          | Les sentinelles                                 | papier | 22/01/2020 | 23/02/2020 |       381 |
+| Chimamanda Ngozi Adichie | Americanah                                      | mobi   | 22/01/2020 | 18/09/2020 |       528 |
+| Edward Snowden           | Mémoires vives                                  | mobi   | 17/10/2020 | 15/11/2020 |       384 |
+| Hervé Le Tellier         | L'anomalie                                      | papier | 21/12/2020 | 25/12/2020 |       416 |
+| Hervé Le Tellier         | Moi et François Mitterand                       | mobi   | 29/12/2020 | 29/12/2020 |       112 |
+| Fernando Arumburu        | Patria                                          | papier | 29/12/2020 | 10/02/2021 |       624 |
+| Florence Aubenas         | L'inconnu de la poste                           | papier | 18/02/2021 | 26/02/2021 |       260 |
+| Patrick Süskind          | Le parfum                                       | mobi   | 26/02/2021 | 12/03/2021 |       279 |
+| Camille Kouchner         | La familia grande                               | papier | 14/03/2021 | 16/03/2021 |       208 |
+| Ahmadou Kourouma         | Allah n'est pas obligé                          | mobi   | 17/03/2021 | 04/12/2021 |       223 |
+| Ariel Magnus             | Eichmann à Buenos Aires                         | papier | 09/10/2021 | 18/12/2021 |       208 |
+| Abel Quentin             | Le voyant d'Etampes                             | papier | 05/01/2022 | 19/01/2022 |       384 |
+| Abel Quentin             | Cabane                                          | papier | 23/09/2024 | 01/10/2024 |       576 |
+| Giuliano da Empoli       | Le mage du Kremlin                              | papier | 10/05/2023 | 17/05/2023 |       288 |
+| Gabriel Garcia Marquez   | Cent ans de solitude                            | papier | 18/09/2023 | 05/11/2023 |       437 |
+| Gabriel Garcia Marquez   | L'amour au temps du choléra                     | papier | 25/01/2024 | 18/05/2024 |       479 |
+| Loretto Urraca Luque     | Comme des hyènes                                | papier | 23/12/2023 | 25/01/2024 |       350 |
+| Douglas Kennedy          | Les hommes ont peur de la lumière               | papier | 22/05/2024 | 25/05/2024 |       264 |
+| Douglas Kennedy          | Et c'est ainsi que nous vivrons                 | papier | 08/06/2024 | 14/06/2024 |       338 |
+| Douglas Kennedy          | Combien ?                                       | papier | 14/02/2025 | 16/03/2025 |       312 |
+| Douglas Kennedy          | L'homme qui voulait vivre sa vie                | papier | 16/03/2025 | 24/03/2025 |       496 |
+| Douglas Kennedy          | Ailleurs chez moi                               | papier | 18/12/2025 | 24/12/2025 |       312 |
+| Tom Wolfe                | Un homme, un vrai                               | papier | 21/06/2024 | 28/07/2024 |      1024 |
+| Aurélien Bellanger       | Les derniers jours du Parti socialiste          | papier | 08/09/2024 | 23/09/2024 |       408 |
+| Aurélien Bellanger       | L'aménagement du territoire                     | papier | 01/10/2024 | 27/10/2024 |       480 |
+| Aurélien Bellanger       | La théorie de l'information                     | mobi   | 07/12/2024 | 02/01/2025 |       496 |
+| Aurélien Bellanger       | Le grand Paris                                  | papier | 30/08/2025 | 26/10/2025 |       480 |
+| Arthur Nersesian         | Fuck up                                         | papier | 07/11/2024 | 05/12/2024 |       336 |
+| Ernest Callenbach        | Ecotopia                                        | papier | 03/01/2025 | 13/02/2025 |       336 |
+| Lars Mytting             | Les seize arbres de la Somme                    | papier | 28/03/2025 | 08/04/2025 |       480 |
+| Philip Roth              | La tache                                        | papier | 09/04/2025 | 27/08/2025 |       496 |
+| Maylis de Kerangal       | Réparer les vivants                             | papier | 27/08/2025 | 07/09/2025 |       304 |
+| Justine Augier           | Personne morale                                 | mobi   | 22/09/2025 | 29/09/2025 |       304 |
+| Javier Cercas            | Les soldats de Salamine                         | papier | 02/09/2025 | 05/09/2025 |       254 |
+| Javier Cercas            | Le monarque des ombres                          | papier | 16/10/2025 | 22/10/2025 |       320 |
+| Javier Cercas            | L'imposteur                                     | papier | 27/10/2025 | 07/11/2025 |       403 |
+| Javier Cercas            | Anatomie d'un instant                           | papier | 30/12/2025 |            |       427 |
+| Cormac Mc Carthy         | La route                                        | papier | 14/11/2025 | 05/12/2025 |       256 |
+| Benjamín Labatut         | Lumières aveugles                               | papier | 24/12/2025 | 30/12/2025 |       224 |
+|--------------------------+-------------------------------------------------+--------+------------+------------+-----------|
 
 * Non terminés
 
