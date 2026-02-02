@@ -91,7 +91,7 @@
 |--------------------------+-------------------------------------------------+--------+------------+------------+-----------|
 | Auteur                   | Titre                                           | Format | Start      | Stop       | Nbr pages |
 |--------------------------+-------------------------------------------------+--------+------------+------------+-----------|
-| Emmanuel Carrere         | Le royaume                                      | mobi   | 11/09/2014 | 21/02/2015 |       640 |
+| Emmanuel Carrere         | Le royaume                                      | papier | 11/09/2014 | 21/02/2015 |       640 |
 | Lydie Salvayre           | Pas pleurer                                     | mobi   | 09/01/2015 | 24/01/2015 |       288 |
 | Michel Houellebecq       | Plateforme                                      | mobi   | 06/03/2015 | 06/04/2015 |       350 |
 | Michel Houellebecq       | La carte et le territoire                       | mobi   | 07/04/2015 | 23/04/2015 |       450 |
@@ -101,7 +101,7 @@
 | Haruki Marukami          | Des hommes sans femmes                          | mobi   | 10/05/2019 | 27/06/2019 |       304 |
 | Jérôme Ferrari           | Le principe                                     | papier | 22/03/2015 | 29/03/2015 |       176 |
 | Jérôme Ferrari           | Le sermon sur la chute de Rome                  | papier | 02/11/2024 | 07/11/2024 |       208 |
-| Jérôme Ferrari           | À son image                                     | papier | 30/01/2026 |            |       224 |
+| Jérôme Ferrari           | À son image                                     | papier | 30/01/2026 | 01/02/2026 |       224 |
 | Ernest Hemingway         | Paris est une fête                              | mobi   | 18/12/2015 | 26/12/2015 |       240 |
 | Boualem Sansal           | 2084                                            | mobi   | 09/02/2016 | 07/03/2016 |       288 |
 | Laurent Seksik           | Le cas Eduard Einstein                          | papier | 15/07/2016 | 25/07/2016 |       304 |
@@ -203,6 +203,7 @@
 | Javier Cercas            | Anatomie d'un instant                           | papier | 30/12/2025 | 23/01/2026 |       427 |
 | Cormac Mc Carthy         | La route                                        | papier | 14/11/2025 | 05/12/2025 |       256 |
 | Benjamín Labatut         | Lumières aveugles                               | papier | 24/12/2025 | 30/12/2025 |       224 |
+| Ariane Chemin            | Ne réveille pas les enfants                     | papier | 01/02/2026 |            |       192 |
 |--------------------------+-------------------------------------------------+--------+------------+------------+-----------|
 
 * Non terminés
