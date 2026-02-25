@@ -203,6 +203,7 @@
 | Javier Cercas            | L'imposteur                                     | papier | 27/10/2025 | 07/11/2025 |       403 |
 | Javier Cercas            | Anatomie d'un instant                           | papier | 30/12/2025 | 23/01/2026 |       427 |
 | Javier Cercas            | Terra alta                                      | papier | 04/02/2026 | 09/02/2026 |       406 |
+| Javier Cercas            | Indépendance                                    | papier | 21/02/2026 |            |       352 |
 | Cormac Mc Carthy         | La route                                        | papier | 14/11/2025 | 05/12/2025 |       256 |
 | Benjamín Labatut         | Lumières aveugles                               | papier | 24/12/2025 | 30/12/2025 |       224 |
 | Ariane Chemin            | Ne réveille pas les enfants                     | papier | 01/02/2026 | 03/02/2026 |       192 |
