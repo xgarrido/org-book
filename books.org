@@ -28,7 +28,7 @@
 | Nils Barrellon    | Le neutrino de Majorana   | papier | 05/11/2023 | 23/12/2023 |       296 |
 | Javier Cercas     | Terra alta                | papier | 04/02/2026 | 09/02/2026 |       406 |
 | Javier Cercas     | Indépendance              | papier | 21/02/2026 | 25/02/2026 |       352 |
-| Javier Cercas     | Le château de barbe bleue | papier | 25/02/2026 |            |       432 |
+| Javier Cercas     | Le château de barbe bleue | papier | 25/02/2026 | 02/03/2026 |       432 |
 |-------------------+---------------------------+--------+------------+------------+-----------|
 
 * Société
