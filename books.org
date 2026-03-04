@@ -147,6 +147,7 @@
 | Umberto Eco              | Le nom de la rose                               | mobi   | 07/08/2018 | 12/10/2018 |       608 |
 | Arturo Perez-Reverte     | Falco                                           | papier | 26/01/2019 | 18/02/2019 |       296 |
 | John Steinbeck           | Les raisins de la colère                        | mobi   | 13/10/2018 | 20/02/2019 |       640 |
+| John Steinbeck           | Des souris et des hommes                        | papier | 03/03/2026 |            |       174 |
 | Pierre Lemaitre          | Cadres noirs                                    | papier | 24/02/2019 | 11/03/2019 |       448 |
 | Pierre Lemaitre          | Au revoir là-haut                               | papier | 04/07/2020 | 22/07/2020 |       624 |
 | Pierre Lemaitre          | Couleurs de l'incendie                          | papier | 19/09/2020 | 30/09/2020 |       672 |
