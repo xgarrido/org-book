@@ -144,6 +144,7 @@
 | Marc Dugain              | La volonté                                      | papier | 27/04/2023 | 09/05/2023 |       288 |
 | Marc Dugain              | La malédiction d'Edgar                          | papier | 05/12/2025 | 13/12/2025 |       512 |
 | Marc Dugain              | Légitime violence                               | mobi   | 05/01/2026 | 10/01/2026 |       256 |
+| Marc Dugain              | L'avion, Poutine, l'Amérique... et moi          | papier | 09/03/2026 |            |           |
 | Umberto Eco              | Le nom de la rose                               | mobi   | 07/08/2018 | 12/10/2018 |       608 |
 | Arturo Perez-Reverte     | Falco                                           | papier | 26/01/2019 | 18/02/2019 |       296 |
 | John Steinbeck           | Les raisins de la colère                        | mobi   | 13/10/2018 | 20/02/2019 |       640 |
