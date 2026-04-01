@@ -96,7 +96,7 @@
 |--------------------------+-------------------------------------------------+--------+------------+------------+-----------|
 | Emmanuel Carrere         | Le royaume                                      | papier | 11/09/2014 | 21/02/2015 |       640 |
 | Lydie Salvayre           | Pas pleurer                                     | mobi   | 09/01/2015 | 24/01/2015 |       288 |
-| Michel Houellebecq       | Plateforme                                      | mobi   | 06/03/2015 | 06/04/2015 |       350 |
+| Michel Houellebecq       | Plateforme                                      | papier | 06/03/2015 | 06/04/2015 |       350 |
 | Michel Houellebecq       | La carte et le territoire                       | mobi   | 07/04/2015 | 23/04/2015 |       450 |
 | Michel Houellebecq       | Soumission                                      | papier | 03/09/2016 | 16/09/2016 |       320 |
 | Michel Houellebecq       | Sérotonine                                      | mobi   | 28/04/2019 | 10/05/2019 |       347 |
@@ -130,21 +130,24 @@
 | Stefan Zweig             | Le joueur d'échec                               | papier | 27/10/2017 | 28/10/2017 |        94 |
 | Olivier Guez             | La disparition de Josef Mengele                 | papier | 02/02/2018 | 11/02/2018 |       256 |
 | Eric Vuillard            | L'ordre du jour                                 | papier | 24/03/2018 | 28/03/2018 |       160 |
+| Eric Vuillard            | 14 juillet                                      | prêt   | 24/03/2026 | 27/03/2026 |       208 |
 | Jonathan Littell         | Les bienvaillantes                              | papier | 28/03/2018 | 02/08/2018 |       904 |
 | Marc Dugain              | La chambre des officiers                        | papier | 03/08/2018 | 07/08/2018 |       171 |
-| Marc Dugain              | Ils vont tuer Robert Kennedy                    | mobi   | 30/03/2019 | 28/04/2019 |       400 |
+| Marc Dugain              | Ils vont tuer Robert Kennedy                    | papier | 30/03/2019 | 28/04/2019 |       400 |
 | Marc Dugain              | Transparence                                    | papier | 27/06/2019 | 02/07/2019 |       224 |
-| Marc Dugain              | Avenue des Géants                               | papier | 18/12/2021 | 04/01/2022 |       368 |
+| Marc Dugain              | Avenue des géants                               | papier | 18/12/2021 | 04/01/2022 |       368 |
 | Marc Dugain              | Une exécution ordinaire                         | mobi   | 10/02/2022 | 04/03/2022 |       528 |
 | Marc Dugain              | L'emprise                                       | papier | 29/04/2022 | 11/05/2022 |       320 |
 | Marc Dugain              | Quinquennat                                     | papier | 14/05/2022 | 28/05/2022 |       304 |
 | Marc Dugain              | Ultime partie                                   | papier | 28/05/2022 | 05/06/2022 |       304 |
 | Marc Dugain              | Paysages trompeurs                              | mobi   | 23/04/2023 | 24/04/2023 |       240 |
-| Marc Dugain              | Tsunami                                         | mobi   | 24/04/2023 | 27/04/2023 |       272 |
+| Marc Dugain              | Tsunami                                         | papier | 24/04/2023 | 27/04/2023 |       272 |
 | Marc Dugain              | La volonté                                      | papier | 27/04/2023 | 09/05/2023 |       288 |
 | Marc Dugain              | La malédiction d'Edgar                          | papier | 05/12/2025 | 13/12/2025 |       512 |
 | Marc Dugain              | Légitime violence                               | mobi   | 05/01/2026 | 10/01/2026 |       256 |
-| Marc Dugain              | L'avion, Poutine, l'Amérique... et moi          | papier | 09/03/2026 |            |           |
+| Marc Dugain              | L'avion, Poutine, l'Amérique... et moi          | prêt   | 09/03/2026 | 14/03/2026 |       360 |
+| Marc Dugain              | L'insomnie des étoiles                          | papier | 21/03/2026 | 24/03/2026 |       240 |
+| Marc Dugain              | En bas, les nuages                              | papier | 28/03/2026 |            |           |
 | Umberto Eco              | Le nom de la rose                               | mobi   | 07/08/2018 | 12/10/2018 |       608 |
 | Arturo Perez-Reverte     | Falco                                           | papier | 26/01/2019 | 18/02/2019 |       296 |
 | John Steinbeck           | Les raisins de la colère                        | mobi   | 13/10/2018 | 20/02/2019 |       640 |
