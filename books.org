@@ -105,6 +105,7 @@
 | Jérôme Ferrari           | Le principe                                     | papier | 22/03/2015 | 29/03/2015 |       176 |
 | Jérôme Ferrari           | Le sermon sur la chute de Rome                  | papier | 02/11/2024 | 07/11/2024 |       208 |
 | Jérôme Ferrari           | À son image                                     | papier | 30/01/2026 | 01/02/2026 |       224 |
+| Jérôme Ferrari           | Nord sentinelle                                 | prêt   | 06/04/2026 |            |       144 |
 | Ernest Hemingway         | Paris est une fête                              | mobi   | 18/12/2015 | 26/12/2015 |       240 |
 | Boualem Sansal           | 2084                                            | mobi   | 09/02/2016 | 07/03/2016 |       288 |
 | Laurent Seksik           | Le cas Eduard Einstein                          | papier | 15/07/2016 | 25/07/2016 |       304 |
@@ -147,7 +148,7 @@
 | Marc Dugain              | Légitime violence                               | mobi   | 05/01/2026 | 10/01/2026 |       256 |
 | Marc Dugain              | L'avion, Poutine, l'Amérique... et moi          | prêt   | 09/03/2026 | 14/03/2026 |       360 |
 | Marc Dugain              | L'insomnie des étoiles                          | papier | 21/03/2026 | 24/03/2026 |       240 |
-| Marc Dugain              | En bas, les nuages                              | papier | 28/03/2026 |            |           |
+| Marc Dugain              | En bas, les nuages                              | papier | 28/03/2026 | 06/04/2026 |       432 |
 | Umberto Eco              | Le nom de la rose                               | mobi   | 07/08/2018 | 12/10/2018 |       608 |
 | Arturo Perez-Reverte     | Falco                                           | papier | 26/01/2019 | 18/02/2019 |       296 |
 | John Steinbeck           | Les raisins de la colère                        | mobi   | 13/10/2018 | 20/02/2019 |       640 |
