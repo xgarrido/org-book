@@ -29,7 +29,7 @@
 | Javier Cercas      | Terra alta                | papier | 04/02/2026 | 09/02/2026 |       406 |
 | Javier Cercas      | Indépendance              | prêt   | 21/02/2026 | 25/02/2026 |       352 |
 | Javier Cercas      | Le château de barbe bleue | prêt   | 25/02/2026 | 02/03/2026 |       432 |
-| Benjamin Dierstein | Bleus, blancs, rouges     | papier | 11/04/2026 |            |       793 |
+| Benjamin Dierstein | Bleus, blancs, rouges     | papier | 11/04/2026 | 22/04/2026 |       793 |
 |--------------------+---------------------------+--------+------------+------------+-----------|
 
 * Société
@@ -96,6 +96,7 @@
 | Auteur                   | Titre                                           | Format | Start      | Stop       | Nbr pages |
 |--------------------------+-------------------------------------------------+--------+------------+------------+-----------|
 | Emmanuel Carrere         | Le royaume                                      | papier | 11/09/2014 | 21/02/2015 |       640 |
+| Emmanuel Carrere         | La classe de neige                              | papier | 25/04/2026 | 28/04/2026 |       147 |
 | Lydie Salvayre           | Pas pleurer                                     | mobi   | 09/01/2015 | 24/01/2015 |       288 |
 | Michel Houellebecq       | Plateforme                                      | papier | 06/03/2015 | 06/04/2015 |       350 |
 | Michel Houellebecq       | La carte et le territoire                       | mobi   | 07/04/2015 | 23/04/2015 |       450 |
