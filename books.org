@@ -31,7 +31,7 @@
 | Javier Cercas      | Le château de barbe bleue | prêt   | 25/02/2026 | 02/03/2026 |       432 |
 | Benjamin Dierstein | Bleus, blancs, rouges 1   | papier | 11/04/2026 | 22/04/2026 |       793 |
 | Benjamin Dierstein | Bleus, blancs, rouges 2   | prêt   | 02/05/2026 | 23/05/2026 |       912 |
-| Benjamin Dierstein | Bleus, blancs, rouges 3   | prêt   | 23/05/2026 |            |       850 |
+| Benjamin Dierstein | Bleus, blancs, rouges 3   | prêt   | 23/05/2026 | 03/06/2026 |       850 |
 |--------------------+---------------------------+--------+------------+------------+-----------|
 
 * Société
@@ -110,6 +110,7 @@
 | Jérôme Ferrari           | Le sermon sur la chute de Rome                  | papier | 02/11/2024 | 07/11/2024 |       208 |
 | Jérôme Ferrari           | À son image                                     | papier | 30/01/2026 | 01/02/2026 |       224 |
 | Jérôme Ferrari           | Nord sentinelle                                 | prêt   | 06/04/2026 | 10/04/2026 |       144 |
+| Jérôme Ferrari           | Très brève théorie de l'enfer                   | prêt   | 03/06/2026 | 07/06/2026 |       160 |
 | Ernest Hemingway         | Paris est une fête                              | mobi   | 18/12/2015 | 26/12/2015 |       240 |
 | Boualem Sansal           | 2084                                            | mobi   | 09/02/2016 | 07/03/2016 |       288 |
 | Laurent Seksik           | Le cas Eduard Einstein                          | papier | 15/07/2016 | 25/07/2016 |       304 |
