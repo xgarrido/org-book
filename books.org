@@ -18,6 +18,7 @@
 | Fred Vargas        | Temps glaciaire           | papier | 07/10/2015 | 18/10/2015 |       497 |
 | Fred Vargas        | Quand sort la recluse     | papier | 18/08/2017 | 26/08/2017 |       478 |
 | Fred Vargas        | Sur la dalle              | papier | 22/05/2023 | 31/05/2023 |       520 |
+| Fred Vargas        | Une unique lueur          | mobi   | 20/07/2026 |            |       512 |
 | Stieg Larsson      | Millenium 1               | papier | 19/10/2015 | 06/11/2015 |       574 |
 | Stieg Larsson      | Millenium 2               | papier | 06/11/2015 | 06/12/2015 |       652 |
 | Stieg Larsson      | Millenium 3               | papier | 06/12/2015 | 05/01/2016 |       711 |
@@ -154,6 +155,7 @@
 | Marc Dugain              | L'avion, Poutine, l'Amérique... et moi          | prêt   | 09/03/2026 | 14/03/2026 |       360 |
 | Marc Dugain              | L'insomnie des étoiles                          | papier | 21/03/2026 | 24/03/2026 |       240 |
 | Marc Dugain              | En bas, les nuages                              | papier | 28/03/2026 | 06/04/2026 |       432 |
+| Marc Dugain              | Submersion                                      | mobi   | 12/07/2026 | 20/07/2026 |       288 |
 | Umberto Eco              | Le nom de la rose                               | mobi   | 07/08/2018 | 12/10/2018 |       608 |
 | Arturo Perez-Reverte     | Falco                                           | papier | 26/01/2019 | 18/02/2019 |       296 |
 | John Steinbeck           | Les raisins de la colère                        | mobi   | 13/10/2018 | 20/02/2019 |       640 |
@@ -184,7 +186,7 @@
 | Hervé Le Tellier         | Le nom sur le mur                               | papier | 23/01/2026 | 24/01/2026 |       176 |
 | Fernando Arumburu        | Patria                                          | papier | 29/12/2020 | 10/02/2021 |       624 |
 | Florence Aubenas         | L'inconnu de la poste                           | papier | 18/02/2021 | 26/02/2021 |       260 |
-| Patrick Süskind          | Le parfum                                       | mobi   | 26/02/2021 | 12/03/2021 |       279 |
+| Patrick Süskind          | Le parfum                                       | papier | 26/02/2021 | 12/03/2021 |       279 |
 | Camille Kouchner         | La familia grande                               | papier | 14/03/2021 | 16/03/2021 |       208 |
 | Ahmadou Kourouma         | Allah n'est pas obligé                          | mobi   | 17/03/2021 | 04/12/2021 |       223 |
 | Ariel Magnus             | Eichmann à Buenos Aires                         | papier | 09/10/2021 | 18/12/2021 |       208 |
