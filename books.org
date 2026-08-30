@@ -18,7 +18,7 @@
 | Fred Vargas        | Temps glaciaire           | papier | 07/10/2015 | 18/10/2015 |       497 |
 | Fred Vargas        | Quand sort la recluse     | papier | 18/08/2017 | 26/08/2017 |       478 |
 | Fred Vargas        | Sur la dalle              | papier | 22/05/2023 | 31/05/2023 |       520 |
-| Fred Vargas        | Une unique lueur          | mobi   | 20/07/2026 |            |       512 |
+| Fred Vargas        | Une unique lueur          | mobi   | 20/07/2026 | 06/08/2026 |       512 |
 | Stieg Larsson      | Millenium 1               | papier | 19/10/2015 | 06/11/2015 |       574 |
 | Stieg Larsson      | Millenium 2               | papier | 06/11/2015 | 06/12/2015 |       652 |
 | Stieg Larsson      | Millenium 3               | papier | 06/12/2015 | 05/01/2016 |       711 |
