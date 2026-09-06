@@ -122,6 +122,7 @@
 | Jacques Mesrine          | L'instinct de mort                              | mobi   | 08/11/2016 | 25/11/2016 |       391 |
 | Mathias Enard            | Boussole                                        | papier | 25/11/2016 | 24/05/2017 |       480 |
 | Mathias Enard            | Parle-leur de batailles, de rois et d'éléphants | papier | 14/12/2025 | 17/12/2025 |       153 |
+| Mathias Enard            | Déserter                                        | papier | 03/09/2026 |            |       256 |
 | Georges Orwell           | Hommage à la Catalogne                          | papier | 18/06/2017 | 18/03/2018 |       293 |
 | Georges Orwell           | 1984                                            | mobi   | 28/10/2017 | 16/01/2018 |       438 |
 | Georges Orwell           | La ferme des animaux                            | papier | 13/02/2021 | 15/02/2021 |       224 |
@@ -239,4 +240,3 @@
 | Maria Pourchet | Feu                                           | papier | 10/02/2022 |      |
 | James Ellroy   | American tabloid                              | mobi   | 13/01/2025 |      |
 |----------------+-----------------------------------------------+--------+------------+------|
-
