@@ -223,6 +223,7 @@
 | Benjamín Labatut         | Lumières aveugles                               | papier | 24/12/2025 | 30/12/2025 |       224 |
 | Ariane Chemin            | Ne réveille pas les enfants                     | papier | 01/02/2026 | 03/02/2026 |       192 |
 | Gaspard Koenig           | Humus                                           | papier | 05/03/2026 | 09/03/2026 |       384 |
+| Dario Ferrari            | La récréation est finie                         | papier | 20/09/2026 |            |       456 |
 |--------------------------+-------------------------------------------------+--------+------------+------------+-----------|
 
 * Non terminés
