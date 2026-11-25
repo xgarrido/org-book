@@ -225,6 +225,7 @@
 | Benjamín Labatut         | Maniac                                          | papier | 25/10/2026 | 04/11/2026 |       448 |
 | Ariane Chemin            | Ne réveille pas les enfants                     | papier | 01/02/2026 | 03/02/2026 |       192 |
 | Gaspard Koenig           | Humus                                           | papier | 05/03/2026 | 09/03/2026 |       384 |
+| Gaspard Koenig           | Aqua                                            | prêt   | 15/11/2026 |            |       432 |
 | Dario Ferrari            | La récréation est finie                         | papier | 20/09/2026 | 07/10/2026 |       456 |
 | Alfred de Montesquiou    | Le crépuscule des hommes                        | papier | 10/10/2026 | 25/10/2026 |       425 |
 |--------------------------+-------------------------------------------------+--------+------------+------------+-----------|
